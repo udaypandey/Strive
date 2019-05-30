@@ -1,0 +1,18 @@
+{
+    "city": "Dallas",
+    "country": "United States",
+    "distance": 42195.0,
+    "id": 104,
+    "measurement_preference": null,
+    "name": "Dallas Marathon",
+    "resource_state": 3,
+    "route_ids": [
+        1081811
+    ],
+    "running_race_type": 0,
+    "start_date_local": "2014-12-14T08:05:00Z",
+    "state": "Texas",
+    "status": 1,
+    "url": "2014-dallas-marathon",
+    "website_url": "https://www.dallasmarathon.com/"
+}

@@ -1,4 +1,4 @@
-# Strava Podfile
+# Strive Podfile
 using_bundler = defined? Bundler
 unless using_bundler
     puts "\nPlease re-run using:".red
@@ -8,16 +8,19 @@ end
 
 platform :ios, '9.0'
 
-target 'Strava' do
+target 'Strive' do
   # Comment the next line if you don't want to use dynamic frameworks
-  use_frameworks!
+  # use_frameworks!
 
-  # Pods for Strava
+  # Pods for Strive
 
   # Pods for Networking
   pod 'Moya', '~> 13.0.1'
 
-  target 'StravaTests' do
+  # Pods for Development
+  pod 'SwiftLint'
+
+  target 'StriveTests' do
     inherit! :search_paths
     # Pods for testing
   end
