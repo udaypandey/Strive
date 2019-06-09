@@ -11,7 +11,20 @@ import XCTest
 
 class RunningRaceTests: XCTestCase {
     func testRunningRace() {
-        let race: RunningRace? = object(from: "RunningRaceTests")
-        XCTAssertNotNil(race, "Invalid instance")
+        guard let races: [RunningRace] = model(from: "RunningRaceTests") else {
+            XCTFail("Failed to parse")
+            return
+        }
+
+        XCTAssertNotNil(races, "Invalid instance")
+        XCTAssertEqual(races.count, 2, "Invalid count")
+
+        var race = races[0]
+        XCTAssertEqual(race.resourceState, .detailed, "Invalid count")
+        XCTAssertEqual(race.runningRaceType, .road, "Invalid count")
+
+        race = races[1]
+        XCTAssertEqual(race.resourceState, .summary, "Invalid count")
+        XCTAssertEqual(race.runningRaceType, .road, "Invalid count")
     }
 }

@@ -20,12 +20,13 @@ extension XCTestCase {
         return data
     }
 
-    func object<T: Decodable>(from fileName: String) -> T? {
+    func model<T: Decodable>(from fileName: String) -> T? {
         guard let json = loadJson(from: fileName) else {
             return nil
         }
 
         let jsonDecoder = JSONDecoder()
+        jsonDecoder.dateDecodingStrategy = .iso8601
 
         do {
             return try jsonDecoder.decode(T.self, from: json)

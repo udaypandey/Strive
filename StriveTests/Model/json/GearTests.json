@@ -1,0 +1,19 @@
+[
+    {
+        "brand_name": "Brooks",
+        "description": "",
+        "distance": 0.0,
+        "id": "g4553393",
+        "model_name": "Ghost10",
+        "name": "Brooks Ghost10",
+        "primary": true,
+        "resource_state": 3
+    },
+    {
+        "distance": 0.0,
+        "id": "g4553393",
+        "name": "Brooks Ghost10",
+        "primary": true,
+        "resource_state": 2
+    }
+]

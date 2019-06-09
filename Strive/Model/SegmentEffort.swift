@@ -8,11 +8,5 @@
 
 import Foundation
 
-public struct SegmentEffort {
-}
-
-struct SummarySegmentEffort {
-}
-
-struct DetailedSegmentEffort {
+public struct SegmentEffort: Codable {
 }

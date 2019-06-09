@@ -1,0 +1,31 @@
+[
+    {
+        "activity": {
+            "id": 2326408895,
+            "resource_state": 1
+        },
+        "athlete": {
+            "id": 2706556,
+            "resource_state": 1
+        },
+        "average_heartrate": 166.9,
+        "average_speed": 2.3,
+        "distance": 41477.4,
+        "elapsed_time": 18011,
+        "end_index": 6296,
+        "id": 7620962279,
+        "lap_index": 1,
+        "max_heartrate": 205.0,
+        "max_speed": 5.1,
+        "moving_time": 16220,
+        "name": "Lap 1",
+        "pace_zone": 0,
+        "resource_state": 2,
+        "split": 1,
+        "start_date": "2019-04-28T09:36:04Z",
+        "start_date_local": "2019-04-28T10:36:04Z",
+        "start_index": 0,
+        "total_elevation_gain": 160.6
+    }
+]
+

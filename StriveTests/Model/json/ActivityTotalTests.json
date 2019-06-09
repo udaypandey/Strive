@@ -1,0 +1,68 @@
+[
+    {
+        "count": 10,
+        "distance": 326521,
+        "elapsed_time": 96863,
+        "elevation_gain": 2953,
+        "moving_time": 76776
+    },
+    {
+        "count": 126,
+        "distance": 1158637,
+        "elapsed_time": 480413,
+        "elevation_gain": 10537,
+        "moving_time": 430089
+    },
+    {
+        "count": 0,
+        "distance": 0,
+        "elapsed_time": 0,
+        "elevation_gain": 0,
+        "moving_time": 0
+    },
+    {
+        "achievement_count": 0,
+        "count": 1,
+        "distance": 11444.5654296875,
+        "elapsed_time": 5391,
+        "elevation_gain": 134.7737579345703,
+        "moving_time": 4616
+    },
+    {
+        "achievement_count": 20,
+        "count": 2,
+        "distance": 7618.458740234375,
+        "elapsed_time": 2819,
+        "elevation_gain": 61.24099063873291,
+        "moving_time": 2695
+    },
+    {
+        "achievement_count": 0,
+        "count": 0,
+        "distance": 0.0,
+        "elapsed_time": 0,
+        "elevation_gain": 0.0,
+        "moving_time": 0
+    },
+    {
+        "count": 1,
+        "distance": 11445,
+        "elapsed_time": 5391,
+        "elevation_gain": 135,
+        "moving_time": 4616
+    },
+    {
+        "count": 42,
+        "distance": 489533,
+        "elapsed_time": 190654,
+        "elevation_gain": 4285,
+        "moving_time": 179763
+    },
+    {
+        "count": 0,
+        "distance": 0,
+        "elapsed_time": 0,
+        "elevation_gain": 0,
+        "moving_time": 0
+    }
+]

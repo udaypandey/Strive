@@ -1,0 +1,47 @@
+{
+    "activity_type": "Run",
+    "athlete_count": 147,
+    "athlete_segment_stats": {
+        "effort_count": 3,
+        "pr_date": "2019-02-24",
+        "pr_elapsed_time": 487
+    },
+    "average_grade": 1.2,
+    "city": "Edgware",
+    "climb_category": 0,
+    "country": "United Kingdom",
+    "created_at": "2017-01-22T21:34:38Z",
+    "distance": 1423.2,
+    "effort_count": 857,
+    "elevation_high": 86.0,
+    "elevation_low": 68.0,
+    "end_latitude": 51.633889,
+    "end_latlng": [
+        51.633889,
+        -0.28185
+    ],
+    "end_longitude": -0.28185,
+    "hazardous": false,
+    "id": 14030637,
+    "map": {
+        "id": "s14030637",
+        "polyline": "ejazHlfu@k@X_Dr@a@Na@HqDrB_ElB}@f@c@Ne@JmBt@WFWNs@Pa@P{@PeAByAK{BYIBa@TWDs@E}ASYAKEa@Us@OWAm@Aw@Pm@\\s@TcAf@]FYN_A^o@\\qAh@w@^eBfAYPSV",
+        "resource_state": 3
+    },
+    "maximum_grade": 9.1,
+    "name": "Cars To Horses",
+    "private": false,
+    "resource_state": 3,
+    "star_count": 2,
+    "starred": false,
+    "start_latitude": 51.621638,
+    "start_latlng": [
+        51.621638,
+        -0.277668
+    ],
+    "start_longitude": -0.277668,
+    "state": "England",
+    "total_elevation_gain": 20.0,
+    "updated_at": "2019-06-08T08:15:50Z"
+}
+

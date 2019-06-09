@@ -1,0 +1,116 @@
+[
+    {
+        "achievements": [],
+        "activity": {
+            "id": 2106363553,
+            "resource_state": 1
+        },
+        "athlete": {
+            "id": 2706556,
+            "resource_state": 1
+        },
+        "athlete_segment_stats": {
+            "effort_count": 3,
+            "pr_date": "2019-02-24",
+            "pr_elapsed_time": 487
+        },
+        "average_heartrate": 172.0,
+        "distance": 1446.5,
+        "elapsed_time": 533,
+        "end_index": 547,
+        "id": 53117157736,
+        "kom_rank": null,
+        "max_heartrate": 172.0,
+        "moving_time": 533,
+        "name": "Cars To Horses",
+        "pr_rank": null,
+        "resource_state": 3,
+        "segment": {
+            "activity_type": "Run",
+            "average_grade": 1.2,
+            "city": "Edgware",
+            "climb_category": 0,
+            "country": "United Kingdom",
+            "distance": 1423.2,
+            "elevation_high": 86.0,
+            "elevation_low": 68.0,
+            "end_latitude": 51.633889,
+            "end_latlng": [
+                51.633889,
+                -0.28185
+            ],
+            "end_longitude": -0.28185,
+            "hazardous": false,
+            "id": 14030637,
+            "maximum_grade": 9.1,
+            "name": "Cars To Horses",
+            "private": false,
+            "resource_state": 2,
+            "starred": false,
+            "start_latitude": 51.621638,
+            "start_latlng": [
+                51.621638,
+                -0.277668
+            ],
+            "start_longitude": -0.277668,
+            "state": "England"
+        },
+        "start_date": "2019-01-27T07:46:19Z",
+        "start_date_local": "2019-01-27T07:46:19Z",
+        "start_index": 339
+    },
+    {
+        "achievements": [],
+        "activity": {
+            "id": 2106363553,
+            "resource_state": 1
+        },
+        "athlete": {
+            "id": 2706556,
+            "resource_state": 1
+        },
+        "average_heartrate": 172.0,
+        "distance": 1446.5,
+        "elapsed_time": 533,
+        "end_index": 547,
+        "id": 53117157736,
+        "kom_rank": null,
+        "max_heartrate": 172.0,
+        "moving_time": 533,
+        "name": "Cars To Horses",
+        "pr_rank": null,
+        "resource_state": 2,
+        "segment": {
+            "activity_type": "Run",
+            "average_grade": 1.2,
+            "city": "Edgware",
+            "climb_category": 0,
+            "country": "United Kingdom",
+            "distance": 1423.2,
+            "elevation_high": 86.0,
+            "elevation_low": 68.0,
+            "end_latitude": 51.633889,
+            "end_latlng": [
+                51.633889,
+                -0.28185
+            ],
+            "end_longitude": -0.28185,
+            "hazardous": false,
+            "id": 14030637,
+            "maximum_grade": 9.1,
+            "name": "Cars To Horses",
+            "private": false,
+            "resource_state": 2,
+            "starred": false,
+            "start_latitude": 51.621638,
+            "start_latlng": [
+                51.621638,
+                -0.277668
+            ],
+            "start_longitude": -0.277668,
+            "state": "England"
+        },
+        "start_date": "2019-01-27T07:46:19Z",
+        "start_date_local": "2019-01-27T07:46:19Z",
+        "start_index": 339
+    }

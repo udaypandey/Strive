@@ -35,34 +35,16 @@ struct ActivityTotal {
 struct ActivityZone {
 }
 
-struct Comment {
-}
-
-struct Error {
-}
-
 struct ExplorerResponse {
 }
 
 struct ExplorerSegment {
 }
 
-struct Fault {
-}
-
-struct Lap {
-}
-
-struct LatLng {
-}
-
 struct PhotosSummary {
 }
 
 struct PhotosSummaryPrimary {
-}
-
-struct PolylineMap {
 }
 
 struct RouteDirection {
@@ -72,9 +54,6 @@ struct SegmentLeaderboard {
 }
 
 struct SegmentLeaderboardEntry {
-}
-
-struct Split {
 }
 
 struct StreamSet {

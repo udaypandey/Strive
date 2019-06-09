@@ -11,7 +11,24 @@ import XCTest
 
 class ClubTests: XCTestCase {
     func testClub() {
-        let race: Club? = object(from: "ClubTests")
-        XCTAssertNotNil(race, "Invalid instance")
+        guard let clubs: [Club] = model(from: "ClubTests") else {
+            XCTFail("Failed to parse")
+            return
+        }
+
+        XCTAssertNotNil(clubs, "Invalid instance")
+        XCTAssertEqual(clubs.count, 3, "Invalid count")
+
+        var club = clubs[0]
+        XCTAssertEqual(club.resourceState, .detailed, "Invalid count")
+
+        club = clubs[1]
+        XCTAssertEqual(club.resourceState, .summary, "Invalid count")
+
+        club = clubs[2]
+        XCTAssertEqual(club.resourceState, .summary, "Invalid count")
+        XCTAssertNotNil(club.country, "Invalid value")
+        XCTAssertNotNil(club.city, "Invalid value")
+        XCTAssertNotNil(club.state, "Invalid value")
     }
 }

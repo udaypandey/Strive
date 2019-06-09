@@ -1,0 +1,22 @@
+[
+    {
+        "errors": [
+            {
+                "code": "invalid",
+                "field": "",
+                "resource": "Application"
+            }
+        ],
+        "message": "Authorization Error"
+    },
+    {
+        "errors": [
+            {
+                "code": "invalid",
+                "field": "",
+                "resource": "Application"
+            }
+        ],
+        "message": "Authorization Error"
+    }
+]

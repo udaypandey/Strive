@@ -1,0 +1,173 @@
+[
+    {
+        "distance": 1618.1,
+        "elapsed_time": 578,
+        "elevation_difference": -13,
+        "moving_time": 571,
+        "split": 1,
+        "average_speed": 2.83,
+        "average_heartrate": 140,
+        "pace_zone": 0
+    },
+    {
+        "distance": 1601,
+        "elapsed_time": 548,
+        "elevation_difference": 13.6,
+        "moving_time": 537,
+        "split": 2,
+        "average_speed": 2.98,
+        "average_heartrate": 140,
+        "pace_zone": 0
+    },
+    {
+        "distance": 1614.8,
+        "elapsed_time": 600,
+        "elevation_difference": 68.2,
+        "moving_time": 600,
+        "split": 3,
+        "average_speed": 2.69,
+        "average_heartrate": 167.985,
+        "pace_zone": 0
+    },
+    {
+        "distance": 1612,
+        "elapsed_time": 528,
+        "elevation_difference": -49.8,
+        "moving_time": 528,
+        "split": 4,
+        "average_speed": 3.05,
+        "average_heartrate": 158.39772727272728,
+        "pace_zone": 0
+    },
+    {
+        "distance": 1605.3,
+        "elapsed_time": 522,
+        "elevation_difference": -12.3,
+        "moving_time": 522,
+        "split": 5,
+        "average_speed": 3.08,
+        "average_heartrate": 160.33141762452107,
+        "pace_zone": 0
+    },
+    {
+        "distance": 1612.6,
+        "elapsed_time": 554,
+        "elevation_difference": -4.5,
+        "moving_time": 554,
+        "split": 6,
+        "average_speed": 2.91,
+        "average_heartrate": 167.3375451263538,
+        "pace_zone": 0
+    },
+    {
+        "distance": 1602.3,
+        "elapsed_time": 658,
+        "elevation_difference": 8.8,
+        "moving_time": 551,
+        "split": 7,
+        "average_speed": 2.91,
+        "average_heartrate": 167.13793103448276,
+        "pace_zone": 0
+    },
+    {
+        "distance": 1611.7,
+        "elapsed_time": 594,
+        "elevation_difference": 8.5,
+        "moving_time": 586,
+        "split": 8,
+        "average_speed": 2.75,
+        "average_heartrate": 159.09215017064847,
+        "pace_zone": 0
+    },
+    {
+        "distance": 1611.7,
+        "elapsed_time": 612,
+        "elevation_difference": -29.4,
+        "moving_time": 551,
+        "split": 9,
+        "average_speed": 2.93,
+        "average_heartrate": 155.8747731397459,
+        "pace_zone": 0
+    },
+    {
+        "distance": 1608.1,
+        "elapsed_time": 605,
+        "elevation_difference": -0.8,
+        "moving_time": 562,
+        "split": 10,
+        "average_speed": 2.86,
+        "average_heartrate": 154.44839857651246,
+        "pace_zone": 0
+    },
+    {
+        "distance": 1608.8,
+        "elapsed_time": 633,
+        "elevation_difference": 23,
+        "moving_time": 592,
+        "split": 11,
+        "average_speed": 2.72,
+        "average_heartrate": 157.7956081081081,
+        "pace_zone": 0
+    },
+    {
+        "distance": 1609.7,
+        "elapsed_time": 691,
+        "elevation_difference": 19.3,
+        "moving_time": 599,
+        "split": 12,
+        "average_speed": 2.69,
+        "average_heartrate": 155.29215358931552,
+        "pace_zone": 0
+    },
+    {
+        "distance": 1606,
+        "elapsed_time": 704,
+        "elevation_difference": 30.3,
+        "moving_time": 594,
+        "split": 13,
+        "average_speed": 2.7,
+        "average_heartrate": 161.82828282828282,
+        "pace_zone": 0
+    },
+    {
+        "distance": 1611.6,
+        "elapsed_time": 653,
+        "elevation_difference": 4.9,
+        "moving_time": 579,
+        "split": 14,
+        "average_speed": 2.78,
+        "average_heartrate": 156.61485319516407,
+        "pace_zone": 0
+    },
+    {
+        "distance": 1612.9,
+        "elapsed_time": 584,
+        "elevation_difference": -50.3,
+        "moving_time": 584,
+        "split": 15,
+        "average_speed": 2.76,
+        "average_heartrate": 152.91438356164383,
+        "pace_zone": 0
+    },
+    {
+        "distance": 1604.8,
+        "elapsed_time": 656,
+        "elevation_difference": -14.5,
+        "moving_time": 598,
+        "split": 16,
+        "average_speed": 2.68,
+        "average_heartrate": 154.38628762541805,
+        "pace_zone": 0
+    },
+    {
+        "distance": 1032.6,
+        "elapsed_time": 443,
+        "elevation_difference": -2.3,
+        "moving_time": 423,
+        "split": 17,
+        "average_speed": 2.44,
+        "average_heartrate": 151.24822695035462,
+        "pace_zone": 0
+    }
+]
+ 

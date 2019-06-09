@@ -8,11 +8,25 @@
 
 import Foundation
 
-public struct Gear {
-}
+public struct Gear: Codable {
+    public let id: String
+    public let resourceState: ResourceState
+    public let name: String
 
-struct SummaryGear {
-}
+    public let brandName: String?
+    public let description: String?
+    public let distance: Double
+    public let modelName: String?
+    public let primary: Bool
 
-struct DetailedGear {
+    private enum CodingKeys: String, CodingKey {
+        case id
+        case name
+        case distance
+        case resourceState = "resource_state"
+        case brandName = "brand_name"
+        case description = "description"
+        case modelName = "model_name"
+        case primary
+    }
 }

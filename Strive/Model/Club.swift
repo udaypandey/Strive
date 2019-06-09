@@ -30,29 +30,34 @@ public struct Club: Codable {
         case other
     }
 
-    public let admin: Bool
+    public let id: Int
+    public let name: String
+    public let resourceState: ResourceState
+
+    public let admin: Bool = false
+
     public let city: String
-    public let clubType: ClubType
+    public let state: String
     public let country: String
+
+    public let clubType: ClubType?
+
     public let coverPhoto: URL?
     public let coverPhotoSmall: URL?
-    public let clubDescription: String
-    public let featured: Bool
-    public let followingCount: Int
-    public let id: Int
-    public let memberCount: Int
-    public let membership: Membership
-    public let name: String
-    public let owner: Bool
-    public let isPrivate: Bool
-    public let profile: URL
-    public let profileMedium: URL
-    public let resourceState: Int
-    public let sportType: SportType
-    public let state: String
 
-    // TODO: Empty string URL throws a parse error in Codable
-    public let url: URL?
+    public let clubDescription: String?
+    public let featured: Bool
+    public let followingCount: Int?
+    public let memberCount: Int
+    public let membership: Membership?
+    public let owner: Bool = false
+    public let isPrivate: Bool
+
+    public let profile: URL?
+    public let profileMedium: URL?
+    public let sportType: SportType
+
+    public let url: String?
     public let isVerified: Bool
 
     private enum CodingKeys: String, CodingKey {
@@ -80,59 +85,3 @@ public struct Club: Codable {
         case isVerified = "verified"
     }
 }
-
-struct DetailedClub {
-}
-
-struct SummaryClub {
-}
-
-struct MetaClub {
-}
-
-/*
-
- {
- "city": "Stanmore",
- "country": "United Kingdom",
- "cover_photo": null,
- "cover_photo_small": null,
- "featured": false,
- "id": 239801,
- "member_count": 54,
- "name": "Stanmore-Active (Running)",
- "private": true,
- "profile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/239801/5273591/1/large.jpg",
- "profile_medium": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/239801/5273591/1/medium.jpg",
- "resource_state": 2,
- "sport_type": "running",
- "state": "England",
- "url": "",
- "verified": false
- }
-
- {
- "admin": false,
- "city": "Stanmore",
- "club_type": "casual_club",
- "country": "United Kingdom",
- "cover_photo": null,
- "cover_photo_small": null,
- "description": "Running group tailored for new, half and full marathon runners.",
- "featured": false,
- "following_count": 23,
- "id": 239801,
- "member_count": 54,
- "membership": "member",
- "name": "Stanmore-Active (Running)",
- "owner": false,
- "private": true,
- "profile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/239801/5273591/1/large.jpg",
- "profile_medium": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/239801/5273591/1/medium.jpg",
- "resource_state": 3,
- "sport_type": "running",
- "state": "England",
- "url": "",
- "verified": false
- }
- */

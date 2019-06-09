@@ -1,0 +1,375 @@
+{
+    "athlete": {
+        "badge_type_id": 0,
+        "city": "San Francisco",
+        "country": "United States",
+        "created_at": "2019-05-12T20:22:14Z",
+        "firstname": "Strava",
+        "follower": null,
+        "friend": null,
+        "id": 0,
+        "lastname": "Athlete",
+        "premium": false,
+        "profile": "avatar/athlete/large.png",
+        "profile_medium": "avatar/athlete/medium.png",
+        "resource_state": 2,
+        "sex": null,
+        "state": "CA",
+        "summit": false,
+        "updated_at": "2019-05-12T20:32:23Z",
+        "username": null
+    },
+    "created_at": "2014-10-20T16:36:37Z",
+    "description": "",
+    "distance": 42883.48622816226,
+    "elevation_gain": 274.039398048048,
+    "estimated_moving_time": 14361,
+    "id": 1081811,
+    "map": {
+        "id": "r1081811",
+        "polyline": "kv`gEppymQE{@i@iFiDsUCc@_C}PO_@S[aA}@c@K[W[[Ue@YcASoBB}@MaBQ}@KWMm@iFbESH[KuCl@c@yCUwB{CmUoAkKeCqUeAgIyBd@eF`Ai@DS?q@@g@ZmAxAyEgGkDkE{AsBoD|E_BdByExF_BfBuKnMeAzAWXwBpCoBbC_ApAaItJuGhIyC_EiAnA}FfHKDJjBA`BUlBo@bCw@|BwAxDa@Ja@lA_@t@yBvCuDlEoGbIeE|EmGzHk@fASr@Gl@?fDCn@S~AOb@WIwAk@_DqCQRuAcAqBy@k@~@{@|@cAt@wCf@a@^SXu@}@]Wu@KwNFkFH{E?gEEwDB?oHeCd@_B@_BG@_J}CcCo@]u@OaADyBt@u@Cu@MsHaBo@c@g@k@cHqJy@{@]Yg@IaBEWGeCwBm@cEGQQO_Co@PqM?wJMiKAwVeFD@iJ|FHjDLNeA`Ad@pDpBX_CsD}BImt@D_L`KD`EA~DGxDBzUCvEBhAClMHbSAbSDrGI|PDzD?REj@M`HiIh@u@nCaD{D}EsIaLgBuBsNoQu@iAqFkH}E{FKGQA?aSmEcG{CcDa@a@w@i@cCy@g@Wg@]a@q@i@eBUcCAyAbAwc@bAFcAGExAgCOiEAmI@m@_HSgAhA}@EY?oATeBd@wAT{@F_ACiD]_FnFo@F_ELmBP{A`@cCPe@kJ}L}@gA{A{BSq@W?kL~AyJlAy@TcDtCa@XqBj@m@Jk@Qq@w@We@Uy@C_ADSTg@t@sAHc@BcAAe@S{@Sg@g@u@c@c@o@YqBQsAGy@@q@LaFrBu@b@i@d@IROtADb@d@vBJhBAV?AALSl@a@h@SJc@Bw@O_Au@m@[sAmAq@c@q@k@UKcFEw@USOSc@?u@t@mCt@}BXwAHw@Bq@GsAKu@Mi@Qe@kFwLWc@c@i@kByAo@c@m@[oEkB[?[B[PMPM^E\\Br@nAjLG`AK^m@xAqCpFoBnCg@b@w@`@{Ad@gCFwIP{@FkBZa@@[IY[Ym@Xl@XZZH`@AlB[A@z@IvIQfCGhBm@h@Yf@c@nBoCpCqFl@yAJ_@FaAoAkLCs@D]L_@LQZQZCZ?nEjBl@Zn@b@jBxAb@h@Vb@|F|MLh@Jt@FrACp@Iv@[|A?Cs@zBu@lC?t@Rb@RNv@TbFDTJp@j@p@b@vAlAh@Z~@t@v@Nb@CRK`@i@Rm@Bc@KiBe@wBEc@NuAHSh@e@t@c@`FsBp@Mx@ArAFpBP\\QdHtEn@JzBxBr@PnC@z@`@lWiDFEpNiBpMoBxSeChLcBrB_@~Hw@~BGjBFhBJ~Dx@h@VPNHNZhAAtAIl@gB`I[j@aDpFq@v@}C~CoClBmBpB{@dAoBjDmAvCg@jB[bB[pDE~A@nCDhAj@nF^vA\\fCtCjK~CpFjIlHpNjKwDpEcIxJu@eAGYE_AoAyAy@yAyCaEdFuGmA{AuGgHOWQKITyDtE?AoGpH}B|C_@jD?AMx@M^UZ@?Y\\}AFBzF?v\\\\@dD~D`IdKzGlInGjI`E|ExErGzEfG|]ub@r@Y~Ca@bDSXZXGlPdTrIrKpBnCb@`@NHbA@z@H`Ar@lCpDNZ@PtI|KrBtClDjEj@f@lAp@bBVf@JtBd@`@PpAnAb@j@\\~@^hBDHLhBdBdOb@lBv@nFhB~PnAtJb@lCH|@@tDCpAXnAVp@bB`DjCrFXVPT\\tAFt@@b@Cn@HhBNlALTX^dC~BRZN^~B|PBb@hDrUh@hFDz@IwA",
+        "resource_state": 3,
+        "summary_polyline": "kv`gEppymQ}I{q@wE_FcBwMiFbEeEj@qNekAoMnBuBtBaNgQ}|@rgAyC_EsI|JKzH_EzLwb@ri@oBdOiNqHyJtGiCaB_i@N?oHeI^@_J}CcCaUeBuL}NeIiDu@uEqC_A@k}@eFD@iJhLVNeArFvCX_CsD}BCmaA~sCDzOuPos@a}@?aSiJgLoImFaAcIbAwc@bAFcAGExA_TOaAgJhA}@jAcJYiMnFo@zAsPyOsT}XlD_L|FkCiDvAsFe@mE{BsB_GWsJjEXrKeDvA{H{FoHk@zBuN]eFyHkPuLeGyAdBjA`P{HzN{DjBgS|@qBqApBpAfS}@zDkBzH{NkAaPxAeBtLdGxHjP\\dF{BtNnHj@rJjGlBgBYsKrJkE|GDpMzI~Ft@peBkUpQlBb@nDqBnJgUzW}DbIcBpRnBxOtH|R|XxT{NjQgJuOdFuGeKgLqQxToA~GwBd@Brd@ht@z}@|]ub@jL{@r^he@tFjBvW~]rOpHpNdeAFdIlIdQ|@vKpEpF|Izq@IwA"
+    },
+    "name": "Dallas Marathon 2014",
+    "private": false,
+    "resource_state": 3,
+    "segments": [
+    {
+    "activity_type": "Run",
+    "average_grade": 0.2,
+    "city": "Dallas",
+    "climb_category": 0,
+    "country": "United States",
+    "distance": 230.2,
+    "elevation_high": 150.9,
+    "elevation_low": 150.4,
+    "end_latitude": 32.807807,
+    "end_latlng": [
+    32.807807,
+    -96.798517
+    ],
+    "end_longitude": -96.798517,
+    "hazardous": false,
+    "id": 5117519,
+    "maximum_grade": 0.5,
+    "name": "West Village Watch Your Feet-Lemmon Ave.",
+    "private": false,
+    "resource_state": 2,
+    "starred": false,
+    "start_latitude": 32.806315,
+    "start_latlng": [
+    32.806315,
+    -96.796816
+    ],
+    "start_longitude": -96.796816,
+    "state": "TX"
+    },
+    {
+    "activity_type": "Run",
+    "average_grade": -0.3,
+    "city": "Dallas",
+    "climb_category": 0,
+    "country": "United States",
+    "distance": 115.2,
+    "elevation_high": 167.4,
+    "elevation_low": 166.9,
+    "end_latitude": 32.8135,
+    "end_latlng": [
+    32.8135,
+    -96.770296
+    ],
+    "end_longitude": -96.770296,
+    "hazardous": false,
+    "id": 6287557,
+    "maximum_grade": 0.0,
+    "name": "Lower Greenville-Trader Joe's Sprint",
+    "private": false,
+    "resource_state": 2,
+    "starred": false,
+    "start_latitude": 32.814535,
+    "start_latlng": [
+    32.814535,
+    -96.770311
+    ],
+    "start_longitude": -96.770311,
+    "state": "TX"
+    },
+    {
+    "activity_type": "Run",
+    "average_grade": 1.5,
+    "city": "Dallas",
+    "climb_category": 0,
+    "country": "United States",
+    "distance": 961.3,
+    "elevation_high": 170.1,
+    "elevation_low": 155.4,
+    "end_latitude": 32.812693,
+    "end_latlng": [
+    32.812693,
+    -96.757561
+    ],
+    "end_longitude": -96.757561,
+    "hazardous": false,
+    "id": 6244109,
+    "maximum_grade": 3.4,
+    "name": "Swiss North Ending",
+    "private": false,
+    "resource_state": 2,
+    "starred": false,
+    "start_latitude": 32.80667,
+    "start_latlng": [
+    32.80667,
+    -96.764745
+    ],
+    "start_longitude": -96.764745,
+    "state": "TX"
+    },
+    {
+    "activity_type": "Run",
+    "average_grade": 2.2,
+    "city": "Dallas",
+    "climb_category": 0,
+    "country": "United States",
+    "distance": 656.42,
+    "elevation_high": 123.4,
+    "elevation_low": 109.2,
+    "end_latitude": 32.812684290111065,
+    "end_latlng": [
+    32.812684290111065,
+    -96.75595929846168
+    ],
+    "end_longitude": -96.75595929846168,
+    "hazardous": false,
+    "id": 3405178,
+    "maximum_grade": 15.3,
+    "name": "Swiss Ave Climb",
+    "private": false,
+    "resource_state": 2,
+    "starred": false,
+    "start_latitude": 32.80908568762243,
+    "start_latlng": [
+    32.80908568762243,
+    -96.76122556440532
+    ],
+    "start_longitude": -96.76122556440532,
+    "state": "TX"
+    },
+    {
+    "activity_type": "Run",
+    "average_grade": -0.0,
+    "city": "Dallas",
+    "climb_category": 0,
+    "country": "United States",
+    "distance": 1589.0,
+    "elevation_high": 141.2,
+    "elevation_low": 139.7,
+    "end_latitude": 32.834247,
+    "end_latlng": [
+    32.834247,
+    -96.72722
+    ],
+    "end_longitude": -96.72722,
+    "hazardous": false,
+    "id": 5968482,
+    "maximum_grade": 0.8,
+    "name": "Reminds me of the southern tip of Texas.. [1mi]",
+    "private": false,
+    "resource_state": 2,
+    "starred": false,
+    "start_latitude": 32.842749,
+    "start_latlng": [
+    32.842749,
+    -96.729899
+    ],
+    "start_longitude": -96.729899,
+    "state": "TX"
+    },
+    {
+    "activity_type": "Run",
+    "average_grade": -0.3,
+    "city": "Dallas",
+    "climb_category": 0,
+    "country": "United States",
+    "distance": 1253.7,
+    "elevation_high": 141.2,
+    "elevation_low": 134.0,
+    "end_latitude": 32.826085,
+    "end_latlng": [
+    32.826085,
+    -96.730448
+    ],
+    "end_longitude": -96.730448,
+    "hazardous": false,
+    "id": 4856408,
+    "maximum_grade": 11.5,
+    "name": "Water Stop to Water Stop Short",
+    "private": false,
+    "resource_state": 2,
+    "starred": false,
+    "start_latitude": 32.834097,
+    "start_latlng": [
+    32.834097,
+    -96.730002
+    ],
+    "start_longitude": -96.730002,
+    "state": "TX"
+    },
+    {
+    "activity_type": "Run",
+    "average_grade": 0.4,
+    "city": "Dallas",
+    "climb_category": 0,
+    "country": "United States",
+    "distance": 2385.42,
+    "elevation_high": 104.0,
+    "elevation_low": 90.2,
+    "end_latitude": 32.8159497,
+    "end_latlng": [
+    32.8159497,
+    -96.7296924
+    ],
+    "end_longitude": -96.7296924,
+    "hazardous": false,
+    "id": 2398701,
+    "maximum_grade": 27.5,
+    "name": "WRL - Fisher Lot to Tokalon Park",
+    "private": false,
+    "resource_state": 2,
+    "starred": false,
+    "start_latitude": 32.8342638,
+    "start_latlng": [
+    32.8342638,
+    -96.7303737
+    ],
+    "start_longitude": -96.7303737,
+    "state": "TX"
+    },
+    {
+    "activity_type": "Run",
+    "average_grade": 3.2,
+    "city": "Dallas",
+    "climb_category": 0,
+    "country": "United States",
+    "distance": 214.2,
+    "elevation_high": 140.2,
+    "elevation_low": 133.4,
+    "end_latitude": 32.804575,
+    "end_latlng": [
+    32.804575,
+    -96.73081
+    ],
+    "end_longitude": -96.73081,
+    "hazardous": false,
+    "id": 4749201,
+    "maximum_grade": 15.4,
+    "name": "Sante Fe Climb",
+    "private": false,
+    "resource_state": 2,
+    "starred": false,
+    "start_latitude": 32.804028,
+    "start_latlng": [
+    32.804028,
+    -96.728721
+    ],
+    "start_longitude": -96.728721,
+    "state": "TX"
+    },
+    {
+    "activity_type": "Run",
+    "average_grade": 2.8,
+    "city": "Dallas",
+    "climb_category": 0,
+    "country": "United States",
+    "distance": 212.6,
+    "elevation_high": 141.2,
+    "elevation_low": 135.2,
+    "end_latitude": 32.804778,
+    "end_latlng": [
+    32.804778,
+    -96.730771
+    ],
+    "end_longitude": -96.730771,
+    "hazardous": false,
+    "id": 6084012,
+    "maximum_grade": 14.6,
+    "name": "Santa Fe Hill Climb. [Drizzop Reverse]",
+    "private": false,
+    "resource_state": 2,
+    "starred": false,
+    "start_latitude": 32.804153,
+    "start_latlng": [
+    32.804153,
+    -96.728644
+    ],
+    "start_longitude": -96.728644,
+    "state": "TX"
+    },
+    {
+    "activity_type": "Run",
+    "average_grade": 1.1,
+    "city": "Dallas",
+    "climb_category": 0,
+    "country": "United States",
+    "distance": 662.486,
+    "elevation_high": 155.6,
+    "elevation_low": 146.6,
+    "end_latitude": 32.808135724657035,
+    "end_latlng": [
+    32.808135724657035,
+    -96.74548577526281
+    ],
+    "end_longitude": -96.74548577526281,
+    "hazardous": false,
+    "id": 1629777,
+    "maximum_grade": 12.8,
+    "name": "Country Club uphill",
+    "private": false,
+    "resource_state": 2,
+    "starred": false,
+    "start_latitude": 32.80989051799551,
+    "start_latlng": [
+    32.80989051799551,
+    -96.73907898375461
+    ],
+    "start_longitude": -96.73907898375461,
+    "state": "TX"
+    },
+    {
+    "activity_type": "Run",
+    "average_grade": 0.6,
+    "city": "Dallas",
+    "climb_category": 0,
+    "country": "United States",
+    "distance": 3694.79,
+    "elevation_high": 161.3,
+    "elevation_low": 130.9,
+    "end_latitude": 32.8037166,
+    "end_latlng": [
+    32.8037166,
+    -96.74901
+    ],
+    "end_longitude": -96.74901,
+    "hazardous": false,
+    "id": 1142675,
+    "maximum_grade": 29.4,
+    "name": "Santa Fe Trail",
+    "private": false,
+    "resource_state": 2,
+    "starred": false,
+    "start_latitude": 32.8146283,
+    "start_latlng": [
+    32.8146283,
+    -96.7294172
+    ],
+    "start_longitude": -96.7294172,
+    "state": "TX"
+    }
+    ],
+    "starred": false,
+    "sub_type": 1,
+    "timestamp": 1413822997,
+    "type": 2,
+    "updated_at": "2018-12-19T19:49:02Z"
+}
+

@@ -10,9 +10,3 @@ import Foundation
 
 public struct Segment {
 }
-
-struct SummarySegment {
-}
-
-struct DetailedSegment {
-}
