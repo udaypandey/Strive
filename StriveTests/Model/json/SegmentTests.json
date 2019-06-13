@@ -1,47 +1,198 @@
-{
-    "activity_type": "Run",
-    "athlete_count": 147,
-    "athlete_segment_stats": {
-        "effort_count": 3,
-        "pr_date": "2019-02-24",
-        "pr_elapsed_time": 487
+[
+    {
+        "activity_type": "Run",
+        "athlete_count": 147,
+        "athlete_segment_stats": {
+            "effort_count": 3,
+            "pr_date": "2019-02-24",
+            "pr_elapsed_time": 487
+        },
+        "average_grade": 1.2,
+        "city": "Edgware",
+        "climb_category": 0,
+        "country": "United Kingdom",
+        "created_at": "2017-01-22T21:34:38Z",
+        "distance": 1423.2,
+        "effort_count": 857,
+        "elevation_high": 86.0,
+        "elevation_low": 68.0,
+        "end_latitude": 51.633889,
+        "end_latlng": [
+            51.633889,
+            -0.28185
+        ],
+        "end_longitude": -0.28185,
+        "hazardous": false,
+        "id": 14030637,
+        "map": {
+            "id": "s14030637",
+            "polyline": "ejazHlfu@k@X_Dr@a@Na@HqDrB_ElB}@f@c@Ne@JmBt@WFWNs@Pa@P{@PeAByAK{BYIBa@TWDs@E}ASYAKEa@Us@OWAm@Aw@Pm@\\s@TcAf@]FYN_A^o@\\qAh@w@^eBfAYPSV",
+            "resource_state": 3
+        },
+        "maximum_grade": 9.1,
+        "name": "Cars To Horses",
+        "private": false,
+        "resource_state": 3,
+        "star_count": 2,
+        "starred": false,
+        "start_latitude": 51.621638,
+        "start_latlng": [
+            51.621638,
+            -0.277668
+        ],
+        "start_longitude": -0.277668,
+        "state": "England",
+        "total_elevation_gain": 20.0,
+        "updated_at": "2019-06-08T08:15:50Z"
     },
-    "average_grade": 1.2,
-    "city": "Edgware",
-    "climb_category": 0,
-    "country": "United Kingdom",
-    "created_at": "2017-01-22T21:34:38Z",
-    "distance": 1423.2,
-    "effort_count": 857,
-    "elevation_high": 86.0,
-    "elevation_low": 68.0,
-    "end_latitude": 51.633889,
-    "end_latlng": [
-        51.633889,
-        -0.28185
-    ],
-    "end_longitude": -0.28185,
-    "hazardous": false,
-    "id": 14030637,
-    "map": {
-        "id": "s14030637",
-        "polyline": "ejazHlfu@k@X_Dr@a@Na@HqDrB_ElB}@f@c@Ne@JmBt@WFWNs@Pa@P{@PeAByAK{BYIBa@TWDs@E}ASYAKEa@Us@OWAm@Aw@Pm@\\s@TcAf@]FYN_A^o@\\qAh@w@^eBfAYPSV",
-        "resource_state": 3
+    {
+        "id": 14030637,
+        "resource_state": 2,
+        "name": "Cars To Horses",
+        "activity_type": "Run",
+        "distance": 1423.2,
+        "average_grade": 1.2,
+        "maximum_grade": 9.1,
+        "elevation_high": 86,
+        "elevation_low": 68,
+        "start_latlng": [
+            51.621638,
+            -0.277668
+        ],
+        "end_latlng": [
+            51.633889,
+            -0.28185
+        ],
+        "start_latitude": 51.621638,
+        "start_longitude": -0.277668,
+        "end_latitude": 51.633889,
+        "end_longitude": -0.28185,
+        "climb_category": 0,
+        "city": "Edgware",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
     },
-    "maximum_grade": 9.1,
-    "name": "Cars To Horses",
-    "private": false,
-    "resource_state": 3,
-    "star_count": 2,
-    "starred": false,
-    "start_latitude": 51.621638,
-    "start_latlng": [
-        51.621638,
-        -0.277668
-    ],
-    "start_longitude": -0.277668,
-    "state": "England",
-    "total_elevation_gain": 20.0,
-    "updated_at": "2019-06-08T08:15:50Z"
-}
-
+                {
+                    "id": 9366040,
+                    "resource_state": 2,
+                    "name": "Edgewarebury Ln. A41 to Barnet Ln.",
+                    "activity_type": "Run",
+                    "distance": 2540.6,
+                    "average_grade": 3.4,
+                    "maximum_grade": 13.7,
+                    "elevation_high": 151.5,
+                    "elevation_low": 65.7,
+                    "start_latlng": [
+                        51.62175,
+                        -0.277745
+                    ],
+                    "end_latlng": [
+                        51.641538,
+                        -0.289874
+                    ],
+                    "start_latitude": 51.62175,
+                    "start_longitude": -0.277745,
+                    "end_latitude": 51.641538,
+                    "end_longitude": -0.289874,
+                    "climb_category": 1,
+                    "city": "Edgware",
+                    "state": null,
+                    "country": "United Kingdom",
+                    "private": false,
+                    "hazardous": false,
+                    "starred": false
+                },
+                {
+                    "id": 2285417,
+                    "resource_state": 2,
+                    "name": "Edgwarebury Ln Climb",
+                    "activity_type": "Run",
+                    "distance": 841.977,
+                    "average_grade": 7.8,
+                    "maximum_grade": 13.5,
+                    "elevation_high": 151.4,
+                    "elevation_low": 85.9,
+                    "start_latlng": [
+                        51.6345525,
+                        -0.2849286
+                    ],
+                    "end_latlng": [
+                        51.6410981,
+                        -0.2898397
+                    ],
+                    "start_latitude": 51.6345525,
+                    "start_longitude": -0.2849286,
+                    "end_latitude": 51.6410981,
+                    "end_longitude": -0.2898397,
+                    "climb_category": 0,
+                    "city": "Barnet",
+                    "state": "Greater London",
+                    "country": "United Kingdom",
+                    "private": false,
+                    "hazardous": false,
+                    "starred": false
+                },
+                {
+                    "id": 14794813,
+                    "resource_state": 2,
+                    "name": "Edgwarebury Ln to Elstree Hill N",
+                    "activity_type": "Run",
+                    "distance": 680.9,
+                    "average_grade": -2.4,
+                    "maximum_grade": 0.8,
+                    "elevation_high": 150.1,
+                    "elevation_low": 134,
+                    "start_latlng": [
+                        51.641663,
+                        -0.289707
+                    ],
+                    "end_latlng": [
+                        51.643925,
+                        -0.298731
+                    ],
+                    "start_latitude": 51.641663,
+                    "start_longitude": -0.289707,
+                    "end_latitude": 51.643925,
+                    "end_longitude": -0.298731,
+                    "climb_category": 0,
+                    "city": "Elstree",
+                    "state": "England",
+                    "country": "United Kingdom",
+                    "private": false,
+                    "hazardous": false,
+                    "starred": false
+                },
+                {
+                    "id": 6878352,
+                    "resource_state": 2,
+                    "name": "Elstree Hill ",
+                    "activity_type": "Run",
+                    "distance": 593.9,
+                    "average_grade": -4.3,
+                    "maximum_grade": 0.2,
+                    "elevation_high": 134,
+                    "elevation_low": 108.6,
+                    "start_latlng": [
+                        51.64373,
+                        -0.298762
+                    ],
+                    "end_latlng": [
+                        51.648914,
+                        -0.297239
+                    ],
+                    "start_latitude": 51.64373,
+                    "start_longitude": -0.298762,
+                    "end_latitude": 51.648914,
+                    "end_longitude": -0.297239,
+                    "climb_category": 0,
+                    "city": "Elstree",
+                    "state": "England",
+                    "country": "United Kingdom",
+                    "private": false,
+                    "hazardous": false,
+                    "starred": false
+                }
+]

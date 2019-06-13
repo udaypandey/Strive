@@ -9,38 +9,38 @@
 import Foundation
 
 public struct Athlete: Codable {
-    let id: Int
-    let resourceState: ResourceState
+    public let id: Int
+    public let resourceState: ResourceState
 
-    let athleteType: Int?
-    let badgeTypeId: Int
-    let bikes: [Gear]?
+    public let athleteType: Int?
+    public let badgeTypeId: Int
+    public let bikes: [Gear]?
 
-    let city: String
-    let country: String
-    let state: String
+    public let city: String
+    public let country: String
+    public let state: String
 
-    let clubs: [Club]?
-    let createdAt: Date
-    let datePreference: String?
-    let firstname: String
-    let follower: [Athlete]?
-    let followerCount: Int?
-    let friend: [Athlete]?
-    let friendCount: Int?
-    let ftp: URL?
-    let lastname: String
-    let measurementPreference: MeasurementPreference?
-    let mutualFriendCount: Int?
-    let premium: Bool = false
-    let profile: URL
-    let profileMedium: URL
-    let sex: String
-    let shoes: [Gear]?
-    let summit: Bool
-    let updatedAt: Date
-    let username: String
-    let weight: Double?
+    public let clubs: [Club]?
+    public let createdAt: Date
+    public let datePreference: String?
+    public let firstname: String
+    public let follower: [Athlete]?
+    public let followerCount: Int?
+    public let friend: [Athlete]?
+    public let friendCount: Int?
+    public let ftp: URL?
+    public let lastname: String
+    public let measurementPreference: MeasurementPreference?
+    public let mutualFriendCount: Int?
+    public let premium: Bool = false
+    public let profile: URL
+    public let profileMedium: URL
+    public let sex: String
+    public let shoes: [Gear]?
+    public let summit: Bool
+    public let updatedAt: Date
+    public let username: String
+    public let weight: Double?
 
     private enum CodingKeys: String, CodingKey {
         case id

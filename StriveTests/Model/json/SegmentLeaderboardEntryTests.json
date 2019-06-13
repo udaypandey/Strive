@@ -1,0 +1,36 @@
+[
+    {
+        "athlete_name": "Uday P.",
+        "elapsed_time": 487,
+        "moving_time": 487,
+        "rank": 78,
+        "start_date": "2019-02-24T07:44:15Z",
+        "start_date_local": "2019-02-24T07:44:15Z"
+    },
+    {
+        "athlete_name": "Olivier L.",
+        "elapsed_time": 324,
+        "moving_time": 324,
+        "rank": 1,
+        "start_date": "2016-07-27T17:15:01Z",
+        "start_date_local": "2016-07-27T18:15:01Z"
+    },
+    {
+        "athlete_name": "Ben M.",
+        "elapsed_time": 343,
+        "moving_time": 343,
+        "rank": 2,
+        "start_date": "2015-06-22T18:43:50Z",
+        "start_date_local": "2015-06-22T19:43:50Z"
+    },
+    {
+        "athlete_name": "Daniel D.",
+        "elapsed_time": 391,
+        "moving_time": 391,
+        "rank": 8,
+        "start_date": "2017-04-30T08:17:07Z",
+        "start_date_local": "2017-04-30T09:17:07Z"
+    }
+]
+ 
+ 

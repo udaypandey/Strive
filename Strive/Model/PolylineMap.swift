@@ -8,12 +8,12 @@
 
 import Foundation
 
-struct PolylineMap: Codable {
-    let id: String
-    let resourceState: ResourceState
+public struct PolylineMap: Codable {
+    public let id: String
+    public let resourceState: ResourceState
 
-    let summaryPolyline: String
-    let polyline: String?
+    public let summaryPolyline: String?
+    public let polyline: String?
 
     private enum CodingKeys: String, CodingKey {
         case id

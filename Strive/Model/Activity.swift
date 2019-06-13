@@ -14,65 +14,65 @@ public struct Activity: Codable {
         case none
     }
 
-    let resourceState: ResourceState
+    public let resourceState: ResourceState
 //    let athlete: Athlete?
-    let name: String
-    let distance: Double
-    let movingTime: Double
-    let elapsedTime: Double
-    let totalElevationGain: Double
-    let type: String
-    let workoutType: Int
-    let id: Int
-    let externalId: String
-    let uploadId: Int?
-    let startDate: Date
-    let startDateLocal: Date
-    let timezone: String
-    let utcOffset: Int
+    public let name: String
+    public let distance: Double
+    public let movingTime: Double
+    public let elapsedTime: Double
+    public let totalElevationGain: Double
+    public let type: String
+    public let workoutType: Int
+    public let id: Int
+    public let externalId: String
+    public let uploadId: Int?
+    public let startDate: Date
+    public let startDateLocal: Date
+    public let timezone: String
+    public let utcOffset: Int
     //    let startLatlng: LatLng
     //    let endLatlng: LatLng
-    let locationCity: String?
-    let locationState: String?
-    let locationCountry: String?
-    let startLatitude: Double
-    let startLongitude: Double
-    let achievementCount: Int
-    let kudosCount: Int
-    let commentCount: Int
-    let athleteCount: Int
-    let photoCount: Int
+    public let locationCity: String?
+    public let locationState: String?
+    public let locationCountry: String?
+    public let startLatitude: Double
+    public let startLongitude: Double
+    public let achievementCount: Int
+    public let kudosCount: Int
+    public let commentCount: Int
+    public let athleteCount: Int
+    public let photoCount: Int
 //    let map: PolylineMap?
-    let trainer: Bool
-    let commute: Bool
-    let manual: Bool
-    let isPrivate: Bool
-    let visibility: Visibility
-    let flagged: Bool
-    let gearId: Gear?
-    let fromAcceptedTag: Bool
-    let averageSpeed: Double
-    let maxSpeed: Double
-    let hasHeartrate: Bool
-    let averageHeartrate: Double
-    let maxHeartrate: Double
-    let heartrateOptOut: Bool
-    let displayHideHeartrateOption: Bool
-    let elevHigh: Double
-    let elevLow: Double
-    let prCount: Int
-    let totalPhotoCount: Int
-    let hasKudoed: Bool
-    let activityDescription: String?
-    let calories: Double?
-    let segmentEfforts: [SegmentEffort]?
+    public let trainer: Bool
+    public let commute: Bool
+    public let manual: Bool
+    public let isPrivate: Bool
+    public let visibility: Visibility
+    public let flagged: Bool
+    public let gearId: Gear?
+    public let fromAcceptedTag: Bool
+    public let averageSpeed: Double
+    public let maxSpeed: Double
+    public let hasHeartrate: Bool
+    public let averageHeartrate: Double
+    public let maxHeartrate: Double
+    public let heartrateOptOut: Bool
+    public let displayHideHeartrateOption: Bool
+    public let elevHigh: Double
+    public let elevLow: Double
+    public let prCount: Int
+    public let totalPhotoCount: Int
+    public let hasKudoed: Bool
+    public let activityDescription: String?
+    public let calories: Double?
+    public let segmentEfforts: [SegmentEffort]?
 //    let splitsMetric: [Split]?
 //    let splitsStandard: [Split]?
 //    let laps: [Lap]
 //    let bestEfforts: [String]?
 //    let photos: URL?
-    let deviceName: String?
-    let embedToken: String?
+    public let deviceName: String?
+    public let embedToken: String?
 //    let similarActivities: Activity?
 //    let availableZones: [String]?
 

@@ -14,12 +14,18 @@ public enum ResourceState: Int, Codable {
     case detailed
 }
 
-enum MeasurementPreference: String, Codable {
+public enum KomType: String, Codable {
+    case kom
+    case cr
+}
+
+
+public enum MeasurementPreference: String, Codable {
     case meters
     case feet
 }
 
-public enum ActivityType: String {
+public enum ActivityType: String, Codable {
     case alpineSki = "AlpineSki"
     case backcountrySki = "BackcountrySki"
     case canoeing = "Canoeing"

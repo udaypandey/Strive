@@ -8,13 +8,13 @@
 
 import Foundation
 
-struct StriveError: Error, Codable {
-    let code: String
-    let field: String
-    let resource: String
+public struct StriveError: Error, Codable {
+    public let code: String
+    public let field: String
+    public let resource: String
 }
 
-struct Fault: Codable {
-    let errors: [StriveError]
-    let message: String
+public struct Fault: Codable {
+    public let errors: [StriveError]
+    public let message: String
 }

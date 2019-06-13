@@ -9,28 +9,28 @@
 import Foundation
 
 public struct RunningRace: Codable {
-    let id: Int
-    let resourceState: ResourceState
-    let status: Int?
+    public let id: Int
+    public let resourceState: ResourceState
+    public let status: Int?
 
-    let name: String
+    public let name: String
 
     var city: String
-    let state: String
-    let country: String
+    public let state: String
+    public let country: String
 
-    let distance: Double
+    public let distance: Double
 
-    let runningRaceType: RunningRaceType = .road
-    let startDateLocal: Date?
-    let measurementPreference: MeasurementPreference = .meters
+    public let runningRaceType: RunningRaceType = .road
+    public let startDateLocal: Date?
+    public let measurementPreference: MeasurementPreference = .meters
 
-    let url: String?
-    let websiteURL: String?
+    public let url: String?
+    public let websiteURL: String?
 
-    let routeIds: [Int]?
+    public let routeIds: [Int]?
 
-    enum RunningRaceType: Int, Codable {
+    public enum RunningRaceType: Int, Codable {
         case road = 0
         case trail
         case track

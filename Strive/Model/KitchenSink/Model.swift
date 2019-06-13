@@ -50,12 +50,6 @@ struct PhotosSummaryPrimary {
 struct RouteDirection {
 }
 
-struct SegmentLeaderboard {
-}
-
-struct SegmentLeaderboardEntry {
-}
-
 struct StreamSet {
 }
 

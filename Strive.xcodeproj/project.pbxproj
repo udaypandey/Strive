@@ -27,7 +27,6 @@
 		785E1CC722B17B1A006D31E7 /* AthleteTests.json in Resources */ = {isa = PBXBuildFile; fileRef = 785E1CB522B17B1A006D31E7 /* AthleteTests.json */; };
 		785E1CC822B17B1A006D31E7 /* SegmentTests.json in Resources */ = {isa = PBXBuildFile; fileRef = 785E1CB622B17B1A006D31E7 /* SegmentTests.json */; };
 		785E1CC922B17B1A006D31E7 /* SplitTests.json in Resources */ = {isa = PBXBuildFile; fileRef = 785E1CB722B17B1A006D31E7 /* SplitTests.json */; };
-		785E1CCA22B17B1A006D31E7 /* SegmentLeaderBoardTests.json in Resources */ = {isa = PBXBuildFile; fileRef = 785E1CB822B17B1A006D31E7 /* SegmentLeaderBoardTests.json */; };
 		785E1CCB22B17B1A006D31E7 /* GearTests.json in Resources */ = {isa = PBXBuildFile; fileRef = 785E1CB922B17B1A006D31E7 /* GearTests.json */; };
 		785E1CCC22B17B1A006D31E7 /* ActivityStatsTests.json in Resources */ = {isa = PBXBuildFile; fileRef = 785E1CBA22B17B1A006D31E7 /* ActivityStatsTests.json */; };
 		785E1CCD22B17B1A006D31E7 /* SegmentEffortTests.json in Resources */ = {isa = PBXBuildFile; fileRef = 785E1CBB22B17B1A006D31E7 /* SegmentEffortTests.json */; };
@@ -38,7 +37,7 @@
 		785E1CD222B17B1A006D31E7 /* PolylineMapTests.json in Resources */ = {isa = PBXBuildFile; fileRef = 785E1CC022B17B1A006D31E7 /* PolylineMapTests.json */; };
 		785E1CD322B17B1A006D31E7 /* ClubTests.json in Resources */ = {isa = PBXBuildFile; fileRef = 785E1CC122B17B1A006D31E7 /* ClubTests.json */; };
 		785E1CD422B17B1A006D31E7 /* AthleteZoneTests.json in Resources */ = {isa = PBXBuildFile; fileRef = 785E1CC222B17B1A006D31E7 /* AthleteZoneTests.json */; };
-		785E1CD522B17B1A006D31E7 /* SegmentLeaderBoardEntryTests.json in Resources */ = {isa = PBXBuildFile; fileRef = 785E1CC322B17B1A006D31E7 /* SegmentLeaderBoardEntryTests.json */; };
+		785E1CD522B17B1A006D31E7 /* SegmentLeaderboardEntryTests.json in Resources */ = {isa = PBXBuildFile; fileRef = 785E1CC322B17B1A006D31E7 /* SegmentLeaderboardEntryTests.json */; };
 		785E1CD622B17B1A006D31E7 /* ActivityTests.json in Resources */ = {isa = PBXBuildFile; fileRef = 785E1CC422B17B1A006D31E7 /* ActivityTests.json */; };
 		785E1CD722B17B1A006D31E7 /* ActivityCommentTests.json in Resources */ = {isa = PBXBuildFile; fileRef = 785E1CC522B17B1A006D31E7 /* ActivityCommentTests.json */; };
 		785E1CD922B17B40006D31E7 /* AthleteTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 785E1CD822B17B40006D31E7 /* AthleteTests.swift */; };
@@ -52,6 +51,7 @@
 		785E1CE922B209EA006D31E7 /* SplitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 785E1CE822B209E9006D31E7 /* SplitTests.swift */; };
 		785E1CEB22B20C33006D31E7 /* FaultTests.json in Resources */ = {isa = PBXBuildFile; fileRef = 785E1CEA22B20C33006D31E7 /* FaultTests.json */; };
 		785E1CED22B20C94006D31E7 /* FaultTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 785E1CEC22B20C94006D31E7 /* FaultTests.swift */; };
+		785E1CEF22B23537006D31E7 /* SegmentTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 785E1CEE22B23537006D31E7 /* SegmentTests.swift */; };
 		786FF0D322AA887A005688AC /* Strive.swift in Sources */ = {isa = PBXBuildFile; fileRef = 786FF0D222AA887A005688AC /* Strive.swift */; };
 		78755B9F22AF658F006642DB /* LatLng.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78755B9E22AF658F006642DB /* LatLng.swift */; };
 		78755BA122AF665C006642DB /* PolylineMap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78755BA022AF665C006642DB /* PolylineMap.swift */; };
@@ -63,6 +63,12 @@
 		7890649E229FC42700EE31FC /* Strive.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78906494229FC42700EE31FC /* Strive.framework */; };
 		789064A5229FC42700EE31FC /* Strive.h in Headers */ = {isa = PBXBuildFile; fileRef = 78906497229FC42700EE31FC /* Strive.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		789064AF229FC6BB00EE31FC /* API.swift in Sources */ = {isa = PBXBuildFile; fileRef = 789064AE229FC6BB00EE31FC /* API.swift */; };
+		78F8275622B260AA0003C58E /* SegmentEffortTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78F8275522B260AA0003C58E /* SegmentEffortTests.swift */; };
+		78F8275822B2730E0003C58E /* SegmentLeaderboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78F8275722B2730E0003C58E /* SegmentLeaderboard.swift */; };
+		78F8275A22B274740003C58E /* SegmentLeaderboardEntry.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78F8275922B274740003C58E /* SegmentLeaderboardEntry.swift */; };
+		78F8275C22B275080003C58E /* SegmentLeaderboardEntryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78F8275B22B275080003C58E /* SegmentLeaderboardEntryTests.swift */; };
+		78F8275E22B275160003C58E /* SegmentLeaderboardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78F8275D22B275150003C58E /* SegmentLeaderboardTests.swift */; };
+		78F8276022B277F40003C58E /* SegmentLeaderboardTests.json in Resources */ = {isa = PBXBuildFile; fileRef = 78F8275F22B277F40003C58E /* SegmentLeaderboardTests.json */; };
 		B9A149481AA201AD0A99BF16 /* libPods-Strive.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4EA7EFED99B6E824ED36E734 /* libPods-Strive.a */; };
 /* End PBXBuildFile section */
 
@@ -99,7 +105,6 @@
 		785E1CB522B17B1A006D31E7 /* AthleteTests.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = AthleteTests.json; sourceTree = "<group>"; };
 		785E1CB622B17B1A006D31E7 /* SegmentTests.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = SegmentTests.json; sourceTree = "<group>"; };
 		785E1CB722B17B1A006D31E7 /* SplitTests.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = SplitTests.json; sourceTree = "<group>"; };
-		785E1CB822B17B1A006D31E7 /* SegmentLeaderBoardTests.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = SegmentLeaderBoardTests.json; sourceTree = "<group>"; };
 		785E1CB922B17B1A006D31E7 /* GearTests.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = GearTests.json; sourceTree = "<group>"; };
 		785E1CBA22B17B1A006D31E7 /* ActivityStatsTests.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ActivityStatsTests.json; sourceTree = "<group>"; };
 		785E1CBB22B17B1A006D31E7 /* SegmentEffortTests.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = SegmentEffortTests.json; sourceTree = "<group>"; };
@@ -110,7 +115,7 @@
 		785E1CC022B17B1A006D31E7 /* PolylineMapTests.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = PolylineMapTests.json; sourceTree = "<group>"; };
 		785E1CC122B17B1A006D31E7 /* ClubTests.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ClubTests.json; sourceTree = "<group>"; };
 		785E1CC222B17B1A006D31E7 /* AthleteZoneTests.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = AthleteZoneTests.json; sourceTree = "<group>"; };
-		785E1CC322B17B1A006D31E7 /* SegmentLeaderBoardEntryTests.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = SegmentLeaderBoardEntryTests.json; sourceTree = "<group>"; };
+		785E1CC322B17B1A006D31E7 /* SegmentLeaderboardEntryTests.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = SegmentLeaderboardEntryTests.json; sourceTree = "<group>"; };
 		785E1CC422B17B1A006D31E7 /* ActivityTests.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ActivityTests.json; sourceTree = "<group>"; };
 		785E1CC522B17B1A006D31E7 /* ActivityCommentTests.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ActivityCommentTests.json; sourceTree = "<group>"; };
 		785E1CD822B17B40006D31E7 /* AthleteTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AthleteTests.swift; sourceTree = "<group>"; };
@@ -124,6 +129,7 @@
 		785E1CE822B209E9006D31E7 /* SplitTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplitTests.swift; sourceTree = "<group>"; };
 		785E1CEA22B20C33006D31E7 /* FaultTests.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = FaultTests.json; sourceTree = "<group>"; };
 		785E1CEC22B20C94006D31E7 /* FaultTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FaultTests.swift; sourceTree = "<group>"; };
+		785E1CEE22B23537006D31E7 /* SegmentTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegmentTests.swift; sourceTree = "<group>"; };
 		786FF0D222AA887A005688AC /* Strive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Strive.swift; sourceTree = "<group>"; };
 		78755B9E22AF658F006642DB /* LatLng.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LatLng.swift; sourceTree = "<group>"; };
 		78755BA022AF665C006642DB /* PolylineMap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PolylineMap.swift; sourceTree = "<group>"; };
@@ -138,6 +144,12 @@
 		7890649D229FC42700EE31FC /* StriveTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StriveTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		789064A4229FC42700EE31FC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		789064AE229FC6BB00EE31FC /* API.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = API.swift; sourceTree = "<group>"; };
+		78F8275522B260AA0003C58E /* SegmentEffortTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegmentEffortTests.swift; sourceTree = "<group>"; };
+		78F8275722B2730E0003C58E /* SegmentLeaderboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegmentLeaderboard.swift; sourceTree = "<group>"; };
+		78F8275922B274740003C58E /* SegmentLeaderboardEntry.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegmentLeaderboardEntry.swift; sourceTree = "<group>"; };
+		78F8275B22B275080003C58E /* SegmentLeaderboardEntryTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegmentLeaderboardEntryTests.swift; sourceTree = "<group>"; };
+		78F8275D22B275150003C58E /* SegmentLeaderboardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegmentLeaderboardTests.swift; sourceTree = "<group>"; };
+		78F8275F22B277F40003C58E /* SegmentLeaderboardTests.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = SegmentLeaderboardTests.json; sourceTree = "<group>"; };
 		93B8D15B27FD5F1A91C0DB33 /* Pods-Strive.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Strive.debug.xcconfig"; path = "Target Support Files/Pods-Strive/Pods-Strive.debug.xcconfig"; sourceTree = "<group>"; };
 		C5BEF0344CE4655FC8E2AEA2 /* libPods-StriveTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-StriveTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E792443177AC0BB53C034C4D /* Pods-StriveTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-StriveTests.debug.xcconfig"; path = "Target Support Files/Pods-StriveTests/Pods-StriveTests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -206,6 +218,8 @@
 				784BE02B22A562970026E9F1 /* Segment.swift */,
 				784BE02D22A562A00026E9F1 /* SegmentEffort.swift */,
 				78755BA022AF665C006642DB /* PolylineMap.swift */,
+				78F8275722B2730E0003C58E /* SegmentLeaderboard.swift */,
+				78F8275922B274740003C58E /* SegmentLeaderboardEntry.swift */,
 				784BE03022A565650026E9F1 /* Upload.swift */,
 				782BDE6D22AFF71C0028C13D /* Comment.swift */,
 				785E1CE622B209DE006D31E7 /* Split.swift */,
@@ -236,7 +250,11 @@
 				787A4EDE22AFDD5600B0FFB8 /* ClubTests.swift */,
 				785E1CE422B2084F006D31E7 /* LapTests.swift */,
 				785E1CEC22B20C94006D31E7 /* FaultTests.swift */,
+				78F8275522B260AA0003C58E /* SegmentEffortTests.swift */,
+				78F8275B22B275080003C58E /* SegmentLeaderboardEntryTests.swift */,
 				785E1CE022B204AF006D31E7 /* PolylineMapTests.swift */,
+				785E1CEE22B23537006D31E7 /* SegmentTests.swift */,
+				78F8275D22B275150003C58E /* SegmentLeaderboardTests.swift */,
 				785E1CE822B209E9006D31E7 /* SplitTests.swift */,
 				785E1CB122B17923006D31E7 /* GearTests.swift */,
 				785E1CDE22B1A7F1006D31E7 /* LatLngTests.swift */,
@@ -262,7 +280,7 @@
 				785E1CB522B17B1A006D31E7 /* AthleteTests.json */,
 				785E1CB622B17B1A006D31E7 /* SegmentTests.json */,
 				785E1CB722B17B1A006D31E7 /* SplitTests.json */,
-				785E1CB822B17B1A006D31E7 /* SegmentLeaderBoardTests.json */,
+				78F8275F22B277F40003C58E /* SegmentLeaderboardTests.json */,
 				785E1CB922B17B1A006D31E7 /* GearTests.json */,
 				785E1CBA22B17B1A006D31E7 /* ActivityStatsTests.json */,
 				785E1CBB22B17B1A006D31E7 /* SegmentEffortTests.json */,
@@ -274,7 +292,7 @@
 				785E1CC022B17B1A006D31E7 /* PolylineMapTests.json */,
 				785E1CC122B17B1A006D31E7 /* ClubTests.json */,
 				785E1CC222B17B1A006D31E7 /* AthleteZoneTests.json */,
-				785E1CC322B17B1A006D31E7 /* SegmentLeaderBoardEntryTests.json */,
+				785E1CC322B17B1A006D31E7 /* SegmentLeaderboardEntryTests.json */,
 				785E1CC422B17B1A006D31E7 /* ActivityTests.json */,
 				785E1CC522B17B1A006D31E7 /* ActivityCommentTests.json */,
 			);
@@ -424,7 +442,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				785E1CD522B17B1A006D31E7 /* SegmentLeaderBoardEntryTests.json in Resources */,
+				785E1CD522B17B1A006D31E7 /* SegmentLeaderboardEntryTests.json in Resources */,
 				785E1CCE22B17B1A006D31E7 /* ActivityTotalTests.json in Resources */,
 				785E1CC622B17B1A006D31E7 /* RunningRaceTests.json in Resources */,
 				785E1CD222B17B1A006D31E7 /* PolylineMapTests.json in Resources */,
@@ -432,7 +450,6 @@
 				785E1CC722B17B1A006D31E7 /* AthleteTests.json in Resources */,
 				785E1CDD22B1A7D1006D31E7 /* LatLngTests.json in Resources */,
 				785E1CCB22B17B1A006D31E7 /* GearTests.json in Resources */,
-				785E1CCA22B17B1A006D31E7 /* SegmentLeaderBoardTests.json in Resources */,
 				785E1CD322B17B1A006D31E7 /* ClubTests.json in Resources */,
 				785E1CC822B17B1A006D31E7 /* SegmentTests.json in Resources */,
 				785E1CD422B17B1A006D31E7 /* AthleteZoneTests.json in Resources */,
@@ -444,6 +461,7 @@
 				785E1CD722B17B1A006D31E7 /* ActivityCommentTests.json in Resources */,
 				785E1CEB22B20C33006D31E7 /* FaultTests.json in Resources */,
 				785E1CD122B17B1A006D31E7 /* LapTests.json in Resources */,
+				78F8276022B277F40003C58E /* SegmentLeaderboardTests.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -522,6 +540,7 @@
 				78755BB722AF6A85006642DB /* Error.swift in Sources */,
 				784BE02022A537AD0026E9F1 /* API+Moya.swift in Sources */,
 				784BE02822A5626B0026E9F1 /* Athlete.swift in Sources */,
+				78F8275822B2730E0003C58E /* SegmentLeaderboard.swift in Sources */,
 				784BE02E22A562A00026E9F1 /* SegmentEffort.swift in Sources */,
 				784BE02A22A562820026E9F1 /* Activity.swift in Sources */,
 				782BDE6E22AFF71C0028C13D /* Comment.swift in Sources */,
@@ -538,6 +557,7 @@
 				784BE03522A5745F0026E9F1 /* Route.swift in Sources */,
 				789064AF229FC6BB00EE31FC /* API.swift in Sources */,
 				784BE02422A561C30026E9F1 /* Club.swift in Sources */,
+				78F8275A22B274740003C58E /* SegmentLeaderboardEntry.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -550,15 +570,19 @@
 				785E1CDF22B1A7F1006D31E7 /* LatLngTests.swift in Sources */,
 				787A4EF722AFDD5700B0FFB8 /* RunningRaceTests.swift in Sources */,
 				782BDE7022AFF8840028C13D /* CommentTests.swift in Sources */,
+				78F8275E22B275160003C58E /* SegmentLeaderboardTests.swift in Sources */,
 				787A4EFD22AFE18D00B0FFB8 /* RouteTests.swift in Sources */,
 				785E1CE522B2084F006D31E7 /* LapTests.swift in Sources */,
 				784BE03B22A597070026E9F1 /* APITests.swift in Sources */,
+				785E1CEF22B23537006D31E7 /* SegmentTests.swift in Sources */,
 				787A4EF322AFDD5700B0FFB8 /* ModelTestHelper.swift in Sources */,
 				787A4EF122AFDD5700B0FFB8 /* ClubTests.swift in Sources */,
 				785E1CED22B20C94006D31E7 /* FaultTests.swift in Sources */,
 				785E1CE122B204AF006D31E7 /* PolylineMapTests.swift in Sources */,
 				785E1CDB22B1A5B9006D31E7 /* ActivityTests.swift in Sources */,
 				785E1CD922B17B40006D31E7 /* AthleteTests.swift in Sources */,
+				78F8275C22B275080003C58E /* SegmentLeaderboardEntryTests.swift in Sources */,
+				78F8275622B260AA0003C58E /* SegmentEffortTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

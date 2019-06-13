@@ -6,18 +6,18 @@
 //  Copyright © 2019 Uday Pandey. All rights reserved.
 //
 
-import UIKit
+import Foundation
 
-struct LatLng: Codable {
-    let values: [Double]
+public struct LatLng: Codable {
+    public let values: [Double]
 
-    var latitude: Double {
-        return values[0]
-    }
-
-    var longitude: Double {
-        return values[1]
-    }
+//    var latitude: Double {
+//        return values[0]
+//    }
+//
+//    var longitude: Double {
+//        return values[1]
+//    }
 
 //    init(from decoder: Decoder) throws {
 //        let container = try decoder.unkeyedContainer()
