@@ -14,11 +14,12 @@ public enum ResourceState: Int, Codable {
     case detailed
 }
 
+// swiftlint:disable identifier_name
 public enum KomType: String, Codable {
     case kom
     case cr
 }
-
+// swiftlint:enable identifier_name
 
 public enum MeasurementPreference: String, Codable {
     case meters

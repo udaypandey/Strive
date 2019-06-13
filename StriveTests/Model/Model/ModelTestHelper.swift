@@ -27,6 +27,7 @@ extension XCTestCase {
 
         let jsonDecoder = JSONDecoder()
         jsonDecoder.dateDecodingStrategy = .iso8601
+//        jsonDecoder.keyDecodingStrategy = .convertFromSnakeCase
 
         do {
             return try jsonDecoder.decode(T.self, from: json)

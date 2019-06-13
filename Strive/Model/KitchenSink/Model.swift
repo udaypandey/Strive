@@ -26,12 +26,6 @@ struct SegmentLeaderboardQuery {
     let dateRange: Int
 }
 
-struct ActivityStats {
-}
-
-struct ActivityTotal {
-}
-
 struct ActivityZone {
 }
 

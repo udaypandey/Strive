@@ -22,7 +22,7 @@ public struct Segment: Codable {
     public let elevationHigh: Double
     public let elevationLow: Double
     public let endLatitude: Double
-//    public let endLatlng: LatLng
+    public let endLatlng: LatLng
     public let endLongitude: Double
     public let hazardous: Bool
     public let id: Int
@@ -34,7 +34,7 @@ public struct Segment: Codable {
     public let starCount: Int?
     public let starred: Bool
     public let startLatitude: Double
-//    public let startLatlng: LatLng
+    public let startLatlng: LatLng
     public let startLongitude: Double
     public let state: String?
     public let totalElevationGain: Double?
@@ -54,7 +54,7 @@ public struct Segment: Codable {
         case elevationHigh = "elevation_high"
         case elevationLow = "elevation_low"
         case endLatitude = "end_latitude"
-//        case endLatlng = "end_latlng"
+        case endLatlng = "end_latlng"
         case endLongitude = "end_longitude"
         case hazardous
         case id
@@ -66,7 +66,7 @@ public struct Segment: Codable {
         case starCount = "star_count"
         case starred
         case startLatitude = "start_latitude"
-//        case startLatlng = "start_latlng"
+        case startLatlng = "start_latlng"
         case startLongitude = "start_longitude"
         case state
         case totalElevationGain = "total_elevation_gain"

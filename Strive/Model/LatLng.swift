@@ -9,28 +9,12 @@
 import Foundation
 
 public struct LatLng: Codable {
-    public let values: [Double]
+    public let latitude: Double
+    public let longitude: Double
 
-//    var latitude: Double {
-//        return values[0]
-//    }
-//
-//    var longitude: Double {
-//        return values[1]
-//    }
-
-//    init(from decoder: Decoder) throws {
-//        let container = try decoder.unkeyedContainer()
-//
-//        latitude = try container.decode(Double.self)
-//        let id: Int = try container.decode(Int.self, forKey: .id)
-//        let twitter: URL = try container.decode(URL.self, forKey: .twitter)
-//
-//    }
-//
-//    private enum CodingKeys: String, CodingKey {
-//        case latitude
-//        case longitude
-//    }
-//
+    public init(from decoder: Decoder) throws {
+        var container = try decoder.unkeyedContainer()
+        latitude = try container.decode(Double.self)
+        longitude = try container.decode(Double.self)
+    }
 }

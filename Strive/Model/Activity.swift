@@ -15,7 +15,7 @@ public struct Activity: Codable {
     }
 
     public let resourceState: ResourceState
-//    let athlete: Athlete?
+    //    let athlete: Athlete?
     public let name: String
     public let distance: Double
     public let movingTime: Double
@@ -30,8 +30,8 @@ public struct Activity: Codable {
     public let startDateLocal: Date
     public let timezone: String
     public let utcOffset: Int
-    //    let startLatlng: LatLng
-    //    let endLatlng: LatLng
+    public let startLatlng: LatLng
+    public let endLatlng: LatLng
     public let locationCity: String?
     public let locationState: String?
     public let locationCountry: String?
@@ -42,7 +42,7 @@ public struct Activity: Codable {
     public let commentCount: Int
     public let athleteCount: Int
     public let photoCount: Int
-//    let map: PolylineMap?
+    public let map: PolylineMap?
     public let trainer: Bool
     public let commute: Bool
     public let manual: Bool
@@ -66,19 +66,19 @@ public struct Activity: Codable {
     public let activityDescription: String?
     public let calories: Double?
     public let segmentEfforts: [SegmentEffort]?
-//    let splitsMetric: [Split]?
-//    let splitsStandard: [Split]?
-//    let laps: [Lap]
-//    let bestEfforts: [String]?
-//    let photos: URL?
+    public let splitsMetric: [Split]?
+    public let splitsStandard: [Split]?
+    //    let laps: [Lap]
+    //    let bestEfforts: [String]?
+    //    let photos: URL?
     public let deviceName: String?
     public let embedToken: String?
-//    let similarActivities: Activity?
-//    let availableZones: [String]?
+    //    let similarActivities: Activity?
+    //    let availableZones: [String]?
 
     private enum CodingKeys: String, CodingKey {
         case resourceState = "resource_state"
-//        case athlete
+        //        case athlete
         case name
         case distance
         case movingTime = "moving_time"
@@ -86,15 +86,15 @@ public struct Activity: Codable {
         case totalElevationGain = "total_elevation_gain"
         case type
         case workoutType = "workout_type"
-case id
+        case id
         case externalId = "external_id"
         case uploadId = "upload_id"
         case startDate = "start_date"
         case startDateLocal = "start_date_local"
         case timezone
         case utcOffset = "utc_offset"
-//        case startLatlng = "start_latlng"
-//        case endLatlng = "end_latlng"
+        case startLatlng = "start_latlng"
+        case endLatlng = "end_latlng"
         case locationCity = "location_city"
         case locationState = "location_state"
         case locationCountry = "location_country"
@@ -105,7 +105,7 @@ case id
         case commentCount = "comment_count"
         case athleteCount = "athlete_count"
         case photoCount = "photo_count"
-//        case map
+        case map
         case trainer
         case commute
         case manual
@@ -129,14 +129,14 @@ case id
         case activityDescription = "description"
         case calories
         case segmentEfforts = "segment_efforts"
-//        case splitsMetric = "splits_metric"
-//        case splitsStandard = "splits_standard"
-//        case laps
-//        case bestEfforts = "best_efforts"
-//        case photos
+        case splitsMetric = "splits_metric"
+        case splitsStandard = "splits_standard"
+        //        case laps
+        //        case bestEfforts = "best_efforts"
+        //        case photos
         case deviceName = "device_name"
         case embedToken = "embed_token"
-//        case similarActivities = "similar_activities"
-//        case availableZones = "available_zones"
+        //        case similarActivities = "similar_activities"
+        //        case availableZones = "available_zones"
     }
 }
