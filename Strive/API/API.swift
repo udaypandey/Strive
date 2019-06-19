@@ -19,7 +19,7 @@ enum API {
     case activityZones(activityId: String)
 
     // MARK: - Upload
-    case createUpload(file: URL, upload: UploadActivity)
+    case createUpload(file: URL, upload: Upload)
     case getUpload(uploadId: String)
 
     // MARK: - Authenticated / Logged In Athlete

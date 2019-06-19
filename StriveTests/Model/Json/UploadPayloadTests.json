@@ -1,0 +1,21 @@
+[
+    {
+        "file": "foobar.txt",
+        "name": "Home To Work",
+        "description": "description",
+        "trainer": false,
+        "commute": false,
+        "data_type": "tcx",
+        "external_id": "ext67890"
+    },
+    {
+        "file": "foobar.txt",
+        "name": "Home To Work To HOme",
+        "description": "description",
+        "trainer": false,
+        "commute": false,
+        "data_type": "gpx",
+        "external_id": "ext12345"
+    }
+]
+

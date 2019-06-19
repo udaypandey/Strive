@@ -1,0 +1,18 @@
+[
+    {
+
+        "commute": false,
+        "trainer": false,
+        "description": "Run to work",
+        "name": "Home To Work",
+        "activity_type": "Run"
+    },
+    {
+        "commute": true,
+        "trainer": true,
+        "description": "Work to Home",
+        "name": "Work To Home",
+        "activity_type": "Run"
+    }
+]
+

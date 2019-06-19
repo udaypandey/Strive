@@ -1,0 +1,13 @@
+[
+    {
+        "status": "foobar",
+        "activity_id": 12345,
+        "external_id": "ext12345"
+    },
+    {
+        "status": "barfood",
+        "activity_id": 67890,
+        "external_id": "ext67890"
+    }
+]
+
