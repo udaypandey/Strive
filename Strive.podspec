@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "Strive"
-  s.version      = "0.2.0"
+  s.version      = "0.4.0"
   s.summary      = "Strive for Strava"
   s.description  = <<-DESC
   Strava SDK for IOS / WatchOS in Swift
