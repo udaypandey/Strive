@@ -17,12 +17,16 @@ class ActivityTests: XCTestCase {
         }
 
         XCTAssertNotNil(activities, "Invalid instance")
-        XCTAssertEqual(activities.count, 2, "Invalid count")
+        XCTAssertEqual(activities.count, 3, "Invalid count")
 
         var activity = activities[0]
         XCTAssertEqual(activity.resourceState, .summary, "Invalid count")
 
         activity = activities[1]
         XCTAssertEqual(activity.resourceState, .detailed, "Invalid count")
+
+        activity = activities[1]
+        XCTAssertEqual(activity.resourceState, .detailed, "Invalid count")
+        XCTAssertNotNil(activity.photos, "Invalid value")
     }
 }

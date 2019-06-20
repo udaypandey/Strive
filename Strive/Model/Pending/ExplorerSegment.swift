@@ -8,5 +8,5 @@
 
 import Foundation
 
-struct ExplorerSegment: Codable {
+public struct ExplorerSegment: Codable {
 }

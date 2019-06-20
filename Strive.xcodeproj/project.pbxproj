@@ -56,6 +56,17 @@
 		78755B9F22AF658F006642DB /* LatLng.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78755B9E22AF658F006642DB /* LatLng.swift */; };
 		78755BA122AF665C006642DB /* PolylineMap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78755BA022AF665C006642DB /* PolylineMap.swift */; };
 		78755BB722AF6A85006642DB /* Error.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78755BB622AF6A85006642DB /* Error.swift */; };
+		7877B8F622BC2B77001EF468 /* HeartRateZoneRanges.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7877B8F522BC2B77001EF468 /* HeartRateZoneRanges.swift */; };
+		7877B8F822BC2B82001EF468 /* PowerZoneRanges.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7877B8F722BC2B82001EF468 /* PowerZoneRanges.swift */; };
+		7877B8FA22BC2CFD001EF468 /* Zones.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7877B8F922BC2CFD001EF468 /* Zones.swift */; };
+		7877B8FC22BC2D1B001EF468 /* ZoneRanges.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7877B8FB22BC2D1B001EF468 /* ZoneRanges.swift */; };
+		7877B8FF22BC3169001EF468 /* StreamSet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7877B8FE22BC3169001EF468 /* StreamSet.swift */; };
+		7877B90122BC325C001EF468 /* PhotoSummary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7877B90022BC325C001EF468 /* PhotoSummary.swift */; };
+		7877B90322BC3274001EF468 /* PhotoSummaryPrimary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7877B90222BC3274001EF468 /* PhotoSummaryPrimary.swift */; };
+		7877B90522BC3585001EF468 /* PhotoSummaryTests.json in Resources */ = {isa = PBXBuildFile; fileRef = 7877B90422BC3585001EF468 /* PhotoSummaryTests.json */; };
+		7877B90722BC35EE001EF468 /* PhotoSummaryPrimaryTests.json in Resources */ = {isa = PBXBuildFile; fileRef = 7877B90622BC35ED001EF468 /* PhotoSummaryPrimaryTests.json */; };
+		7877B90922BC3628001EF468 /* PhotoSummaryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7877B90822BC3628001EF468 /* PhotoSummaryTests.swift */; };
+		7877B90D22BC3753001EF468 /* PhotoSummaryPrimaryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7877B90C22BC3753001EF468 /* PhotoSummaryPrimaryTests.swift */; };
 		787A4EF122AFDD5700B0FFB8 /* ClubTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 787A4EDE22AFDD5600B0FFB8 /* ClubTests.swift */; };
 		787A4EF322AFDD5700B0FFB8 /* ModelTestHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 787A4EE022AFDD5600B0FFB8 /* ModelTestHelper.swift */; };
 		787A4EF722AFDD5700B0FFB8 /* RunningRaceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 787A4EE422AFDD5600B0FFB8 /* RunningRaceTests.swift */; };
@@ -112,6 +123,10 @@
 		78D2713922B9F14400A0E171 /* UpdatableActivityTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78D2713822B9F14400A0E171 /* UpdatableActivityTests.swift */; };
 		78D2713B22B9F15500A0E171 /* UpdatableActivity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78D2713A22B9F15400A0E171 /* UpdatableActivity.swift */; };
 		78D2713D22B9F49200A0E171 /* ManualActivity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78D2713C22B9F49200A0E171 /* ManualActivity.swift */; };
+		78DB855C22BC2A7D00E607CE /* ActivityZone.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78DB855B22BC2A7D00E607CE /* ActivityZone.swift */; };
+		78DB855E22BC2AD000E607CE /* TimedZoneRange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78DB855D22BC2AD000E607CE /* TimedZoneRange.swift */; };
+		78DB856022BC2AFB00E607CE /* TimedZoneDistribution.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78DB855F22BC2AFB00E607CE /* TimedZoneDistribution.swift */; };
+		78DB856222BC2B1F00E607CE /* ZoneRange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78DB856122BC2B1F00E607CE /* ZoneRange.swift */; };
 		78F8275622B260AA0003C58E /* SegmentEffortTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78F8275522B260AA0003C58E /* SegmentEffortTests.swift */; };
 		78F8275822B2730E0003C58E /* SegmentLeaderboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78F8275722B2730E0003C58E /* SegmentLeaderboard.swift */; };
 		78F8275A22B274740003C58E /* SegmentLeaderboardEntry.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78F8275922B274740003C58E /* SegmentLeaderboardEntry.swift */; };
@@ -183,6 +198,17 @@
 		78755B9E22AF658F006642DB /* LatLng.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LatLng.swift; sourceTree = "<group>"; };
 		78755BA022AF665C006642DB /* PolylineMap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PolylineMap.swift; sourceTree = "<group>"; };
 		78755BB622AF6A85006642DB /* Error.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Error.swift; sourceTree = "<group>"; };
+		7877B8F522BC2B77001EF468 /* HeartRateZoneRanges.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeartRateZoneRanges.swift; sourceTree = "<group>"; };
+		7877B8F722BC2B82001EF468 /* PowerZoneRanges.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PowerZoneRanges.swift; sourceTree = "<group>"; };
+		7877B8F922BC2CFD001EF468 /* Zones.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Zones.swift; sourceTree = "<group>"; };
+		7877B8FB22BC2D1B001EF468 /* ZoneRanges.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZoneRanges.swift; sourceTree = "<group>"; };
+		7877B8FE22BC3169001EF468 /* StreamSet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StreamSet.swift; sourceTree = "<group>"; };
+		7877B90022BC325C001EF468 /* PhotoSummary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoSummary.swift; sourceTree = "<group>"; };
+		7877B90222BC3274001EF468 /* PhotoSummaryPrimary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoSummaryPrimary.swift; sourceTree = "<group>"; };
+		7877B90422BC3585001EF468 /* PhotoSummaryTests.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = PhotoSummaryTests.json; sourceTree = "<group>"; };
+		7877B90622BC35ED001EF468 /* PhotoSummaryPrimaryTests.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = PhotoSummaryPrimaryTests.json; sourceTree = "<group>"; };
+		7877B90822BC3628001EF468 /* PhotoSummaryTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoSummaryTests.swift; sourceTree = "<group>"; };
+		7877B90C22BC3753001EF468 /* PhotoSummaryPrimaryTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoSummaryPrimaryTests.swift; sourceTree = "<group>"; };
 		787A4EDE22AFDD5600B0FFB8 /* ClubTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ClubTests.swift; sourceTree = "<group>"; };
 		787A4EE022AFDD5600B0FFB8 /* ModelTestHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ModelTestHelper.swift; sourceTree = "<group>"; };
 		787A4EE422AFDD5600B0FFB8 /* RunningRaceTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RunningRaceTests.swift; sourceTree = "<group>"; };
@@ -242,6 +268,10 @@
 		78D2713822B9F14400A0E171 /* UpdatableActivityTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdatableActivityTests.swift; sourceTree = "<group>"; };
 		78D2713A22B9F15400A0E171 /* UpdatableActivity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdatableActivity.swift; sourceTree = "<group>"; };
 		78D2713C22B9F49200A0E171 /* ManualActivity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ManualActivity.swift; sourceTree = "<group>"; };
+		78DB855B22BC2A7D00E607CE /* ActivityZone.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityZone.swift; sourceTree = "<group>"; };
+		78DB855D22BC2AD000E607CE /* TimedZoneRange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimedZoneRange.swift; sourceTree = "<group>"; };
+		78DB855F22BC2AFB00E607CE /* TimedZoneDistribution.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimedZoneDistribution.swift; sourceTree = "<group>"; };
+		78DB856122BC2B1F00E607CE /* ZoneRange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZoneRange.swift; sourceTree = "<group>"; };
 		78F8275522B260AA0003C58E /* SegmentEffortTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegmentEffortTests.swift; sourceTree = "<group>"; };
 		78F8275722B2730E0003C58E /* SegmentLeaderboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegmentLeaderboard.swift; sourceTree = "<group>"; };
 		78F8275922B274740003C58E /* SegmentLeaderboardEntry.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegmentLeaderboardEntry.swift; sourceTree = "<group>"; };
@@ -328,7 +358,9 @@
 				789E5FF822BB3C16007E6420 /* HeartRateStream.swift */,
 				789E5FFA22BB3C22007E6420 /* LatLngStream.swift */,
 				789E5FFC22BB3C2F007E6420 /* MovingStream.swift */,
+				7877B90022BC325C001EF468 /* PhotoSummary.swift */,
 				789E5FFE22BB3C42007E6420 /* PowerStream.swift */,
+				7877B90222BC3274001EF468 /* PhotoSummaryPrimary.swift */,
 				789E600022BB3C56007E6420 /* SmoothGradeStream.swift */,
 				789E600222BB3C60007E6420 /* SmoothVelocityStream.swift */,
 				789E600422BB3C8B007E6420 /* TemperatureStream.swift */,
@@ -384,6 +416,7 @@
 				789E5FE322BAB922007E6420 /* ExploreResponseTests.json */,
 				789E5FE522BAB922007E6420 /* ExploreSegmentTests.json */,
 				789E600A22BB43F0007E6420 /* DistanceStreamTests.json */,
+				7877B90622BC35ED001EF468 /* PhotoSummaryPrimaryTests.json */,
 				789E600B22BB43F0007E6420 /* StreamSetTests.json */,
 				789E5FE622BAB922007E6420 /* UpdatableActivityTests.json */,
 				789E5FE422BAB922007E6420 /* UploadTests.json */,
@@ -391,6 +424,7 @@
 				785E1CB622B17B1A006D31E7 /* SegmentTests.json */,
 				785E1CB722B17B1A006D31E7 /* SplitTests.json */,
 				78F8275F22B277F40003C58E /* SegmentLeaderboardTests.json */,
+				7877B90422BC3585001EF468 /* PhotoSummaryTests.json */,
 				785E1CB922B17B1A006D31E7 /* GearTests.json */,
 				785E1CBA22B17B1A006D31E7 /* ActivityStatsTests.json */,
 				785E1CBB22B17B1A006D31E7 /* SegmentEffortTests.json */,
@@ -407,6 +441,21 @@
 				785E1CC522B17B1A006D31E7 /* ActivityCommentTests.json */,
 			);
 			path = Json;
+			sourceTree = "<group>";
+		};
+		7877B8FD22BC30EC001EF468 /* Zones */ = {
+			isa = PBXGroup;
+			children = (
+				78DB855B22BC2A7D00E607CE /* ActivityZone.swift */,
+				7877B8F522BC2B77001EF468 /* HeartRateZoneRanges.swift */,
+				7877B8F722BC2B82001EF468 /* PowerZoneRanges.swift */,
+				7877B8F922BC2CFD001EF468 /* Zones.swift */,
+				78DB856122BC2B1F00E607CE /* ZoneRange.swift */,
+				7877B8FB22BC2D1B001EF468 /* ZoneRanges.swift */,
+				78DB855D22BC2AD000E607CE /* TimedZoneRange.swift */,
+				78DB855F22BC2AFB00E607CE /* TimedZoneDistribution.swift */,
+			);
+			path = Zones;
 			sourceTree = "<group>";
 		};
 		7890648A229FC42700EE31FC = {
@@ -454,6 +503,8 @@
 			isa = PBXGroup;
 			children = (
 				78D2712C22B9F06D00A0E171 /* ExplorerSegment.swift */,
+				7877B8FE22BC3169001EF468 /* StreamSet.swift */,
+				7877B8FD22BC30EC001EF468 /* Zones */,
 				78D2712E22B9F08A00A0E171 /* ExplorerResponse.swift */,
 				78D2712A22B9F03F00A0E171 /* RouteDirection.swift */,
 			);
@@ -483,6 +534,8 @@
 				789E601122BB4766007E6420 /* PowerStreamTests.swift */,
 				789E601422BB4766007E6420 /* SmoothGradeStreamTests.swift */,
 				789E600F22BB4765007E6420 /* SmoothVelocityStreamTests.swift */,
+				7877B90822BC3628001EF468 /* PhotoSummaryTests.swift */,
+				7877B90C22BC3753001EF468 /* PhotoSummaryPrimaryTests.swift */,
 				789E601322BB4766007E6420 /* TemperatureStreamTests.swift */,
 				789E601622BB4766007E6420 /* TimeStreamTests.swift */,
 				78D2713422B9F0E000A0E171 /* RouteDirectionTests.swift */,
@@ -614,11 +667,13 @@
 				789E5FE822BAB922007E6420 /* UploadTests.json in Resources */,
 				785E1CCD22B17B1A006D31E7 /* SegmentEffortTests.json in Resources */,
 				785E1CC722B17B1A006D31E7 /* AthleteTests.json in Resources */,
+				7877B90522BC3585001EF468 /* PhotoSummaryTests.json in Resources */,
 				789E602522BB48AF007E6420 /* IntegerDataStreamTests.json in Resources */,
 				789E600D22BB43F1007E6420 /* StreamSetTests.json in Resources */,
 				785E1CDD22B1A7D1006D31E7 /* LatLngTests.json in Resources */,
 				789E5FF022BAC0EB007E6420 /* UploadPayloadTests.json in Resources */,
 				785E1CCB22B17B1A006D31E7 /* GearTests.json in Resources */,
+				7877B90722BC35EE001EF468 /* PhotoSummaryPrimaryTests.json in Resources */,
 				785E1CD322B17B1A006D31E7 /* ClubTests.json in Resources */,
 				785E1CC822B17B1A006D31E7 /* SegmentTests.json in Resources */,
 				785E1CD422B17B1A006D31E7 /* AthleteZoneTests.json in Resources */,
@@ -718,23 +773,30 @@
 				78D2712D22B9F06D00A0E171 /* ExplorerSegment.swift in Sources */,
 				789E600122BB3C56007E6420 /* SmoothGradeStream.swift in Sources */,
 				78F8275822B2730E0003C58E /* SegmentLeaderboard.swift in Sources */,
+				78DB855E22BC2AD000E607CE /* TimedZoneRange.swift in Sources */,
+				78DB856022BC2AFB00E607CE /* TimedZoneDistribution.swift in Sources */,
 				789E5FF722BB3C0A007E6420 /* DistanceStream.swift in Sources */,
 				784BE02E22A562A00026E9F1 /* SegmentEffort.swift in Sources */,
 				784BE02A22A562820026E9F1 /* Activity.swift in Sources */,
 				782BDE6E22AFF71C0028C13D /* Comment.swift in Sources */,
+				78DB855C22BC2A7D00E607CE /* ActivityZone.swift in Sources */,
 				789E5FF322BB3BF5007E6420 /* AltitudeStream.swift in Sources */,
 				78D2712B22B9F03F00A0E171 /* RouteDirection.swift in Sources */,
 				789E5FF922BB3C16007E6420 /* HeartRateStream.swift in Sources */,
 				789E600722BB3C97007E6420 /* TimeStream.swift in Sources */,
 				789E5FF522BB3BFF007E6420 /* CadenceStream.swift in Sources */,
+				7877B8F822BC2B82001EF468 /* PowerZoneRanges.swift in Sources */,
 				784BE02C22A562970026E9F1 /* Segment.swift in Sources */,
 				786FF0D322AA887A005688AC /* Strive.swift in Sources */,
 				784BE02622A561CE0026E9F1 /* Gear.swift in Sources */,
+				7877B8FC22BC2D1B001EF468 /* ZoneRanges.swift in Sources */,
 				789E5FEC22BABC35007E6420 /* UploadPayload.swift in Sources */,
 				785E1CE322B20688006D31E7 /* Lap.swift in Sources */,
 				78D2713D22B9F49200A0E171 /* ManualActivity.swift in Sources */,
+				7877B8FA22BC2CFD001EF468 /* Zones.swift in Sources */,
 				78D2712522B9E56B00A0E171 /* ActivityTotal.swift in Sources */,
 				78755B9F22AF658F006642DB /* LatLng.swift in Sources */,
+				7877B8FF22BC3169001EF468 /* StreamSet.swift in Sources */,
 				784BE03122A565650026E9F1 /* Upload.swift in Sources */,
 				78D2712F22B9F08A00A0E171 /* ExplorerResponse.swift in Sources */,
 				78755BA122AF665C006642DB /* PolylineMap.swift in Sources */,
@@ -743,11 +805,15 @@
 				784BE03322A574240026E9F1 /* RunningRace.swift in Sources */,
 				789E600522BB3C8B007E6420 /* TemperatureStream.swift in Sources */,
 				784BE01E22A52E580026E9F1 /* Model.swift in Sources */,
+				78DB856222BC2B1F00E607CE /* ZoneRange.swift in Sources */,
 				785E1CE722B209DE006D31E7 /* Split.swift in Sources */,
 				784BE03522A5745F0026E9F1 /* Route.swift in Sources */,
 				789064AF229FC6BB00EE31FC /* API.swift in Sources */,
+				7877B90122BC325C001EF468 /* PhotoSummary.swift in Sources */,
 				78D2712722B9E57600A0E171 /* ActivityStats.swift in Sources */,
 				789E5FFB22BB3C22007E6420 /* LatLngStream.swift in Sources */,
+				7877B90322BC3274001EF468 /* PhotoSummaryPrimary.swift in Sources */,
+				7877B8F622BC2B77001EF468 /* HeartRateZoneRanges.swift in Sources */,
 				784BE02422A561C30026E9F1 /* Club.swift in Sources */,
 				789E5FFD22BB3C2F007E6420 /* MovingStream.swift in Sources */,
 				78F8275A22B274740003C58E /* SegmentLeaderboardEntry.swift in Sources */,
@@ -768,11 +834,13 @@
 				78D2712122B9E54100A0E171 /* ActivityStatsTests.swift in Sources */,
 				789E601C22BB4767007E6420 /* TemperatureStreamTests.swift in Sources */,
 				787A4EF722AFDD5700B0FFB8 /* RunningRaceTests.swift in Sources */,
+				7877B90D22BC3753001EF468 /* PhotoSummaryPrimaryTests.swift in Sources */,
 				782BDE7022AFF8840028C13D /* CommentTests.swift in Sources */,
 				78F8275E22B275160003C58E /* SegmentLeaderboardTests.swift in Sources */,
 				78D2712922B9E72500A0E171 /* ActivityTotalTests.swift in Sources */,
 				789E602722BB4A8B007E6420 /* LatLngStreamTests.swift in Sources */,
 				789E601D22BB4767007E6420 /* SmoothGradeStreamTests.swift in Sources */,
+				7877B90922BC3628001EF468 /* PhotoSummaryTests.swift in Sources */,
 				789E5FEE22BABFEA007E6420 /* UploadPayloadTests.swift in Sources */,
 				789E601E22BB4767007E6420 /* CadenceStreamTests.swift in Sources */,
 				78D2713922B9F14400A0E171 /* UpdatableActivityTests.swift in Sources */,

@@ -8,39 +8,11 @@
 
 import Foundation
 
-struct SegmentLeaderboardQuery {
+public struct SegmentLeaderboardQuery {
     let gender: Int
     let ageGroup: Int
     let weightClass: Int
     let following: Bool
     let clubId: String
     let dateRange: Int
-}
-
-struct ActivityZone {
-}
-
-struct PhotosSummary {
-}
-
-struct PhotosSummaryPrimary {
-}
-
-struct StreamSet {
-}
-
-struct TimedZoneDistribution {
-}
-
-struct ZoneRange {
-}
-struct ZoneRanges {
-}
-struct Zones {
-}
-struct PowerZoneRanges {
-}
-struct TimedZoneRange {
-}
-struct HeartRateZoneRanges {
 }

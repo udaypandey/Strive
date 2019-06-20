@@ -8,5 +8,5 @@
 
 import Foundation
 
-struct RouteDirection: Codable {
+public struct RouteDirection: Codable {
 }

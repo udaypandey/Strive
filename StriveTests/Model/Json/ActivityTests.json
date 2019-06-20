@@ -1912,5 +1912,1024 @@
             "resource_state": 2
         },
         "available_zones": []
+    },
+    {
+        "achievement_count": 0,
+        "athlete": {
+            "id": 2706556,
+            "resource_state": 1
+        },
+        "athlete_count": 2,
+        "available_zones": [],
+        "average_heartrate": 113.7,
+        "average_speed": 2.479,
+        "average_watts": 35.1,
+        "calories": 180.5,
+        "comment_count": 0,
+        "commute": false,
+        "description": "",
+        "device_name": "Apple Watch Series 4",
+        "device_watts": false,
+        "display_hide_heartrate_option": true,
+        "distance": 11444.6,
+        "elapsed_time": 5391,
+        "elev_high": 114.1,
+        "elev_low": 16.6,
+        "embed_token": "33e559905ad7d2c92cbcd8cf91e1512f9915f533",
+        "end_latlng": [
+            51.58,
+            -0.38
+        ],
+        "external_id": "6F50E344-D19F-4797-B529-FD7B423115C6",
+        "flagged": false,
+        "from_accepted_tag": false,
+        "gear_id": null,
+        "has_heartrate": true,
+        "has_kudoed": false,
+        "heartrate_opt_out": false,
+        "id": 2399806368,
+        "kilojoules": 161.9,
+        "kudos_count": 7,
+        "laps": [
+            {
+                "activity": {
+                    "id": 2399806368,
+                    "resource_state": 1
+                },
+                "athlete": {
+                    "id": 2706556,
+                    "resource_state": 1
+                },
+                "average_heartrate": 113.7,
+                "average_speed": 2.12,
+                "average_watts": 35.1,
+                "device_watts": false,
+                "distance": 11444.5,
+                "elapsed_time": 5391,
+                "end_index": 2763,
+                "id": 7867227895,
+                "lap_index": 1,
+                "max_heartrate": 160.0,
+                "max_speed": 6.4,
+                "moving_time": 4616,
+                "name": "Lap 1",
+                "resource_state": 2,
+                "split": 1,
+                "start_date": "2019-05-26T17:02:36Z",
+                "start_date_local": "2019-05-26T18:02:36Z",
+                "start_index": 0,
+                "total_elevation_gain": 136.5
+            }
+        ],
+        "location_city": null,
+        "location_country": "United Kingdom",
+        "location_state": null,
+        "manual": false,
+        "map": {
+            "id": "a2399806368",
+            "polyline": "}unyHldz@ABSAUW[kAm@mAIIKA_@N_@Z{A~@cClBu@z@W\\AFR~@Bn@H^Ff@J`@RhBPdABz@V`CERQJUXc@R[DOHIJCH?XDHAJF\\HvA@jBLvAA|A^nEDtACr@Df@Jl@HvAJp@Fr@DxBF^Br@Dr@Ll@@NDLAD]Jc@ZIp@C@Ij@Ul@Ux@Ib@FX@TSbA?lAD`@HlA?t@Ff@DbANlBD~@Tx@?Jf@~@LLLVATKFEEKBGC_@E_ADe@DY\\ENu@nAITCL[j@WdASb@SX_@\\KRo@n@CHQT[RY`@[XGBe@d@EBABmAb@UDCDU@OD]EK?c@HWLGJENIJKTEDM@[VQHWTGJCGCOAi@AIE?IbAKXg@`@?CCA_Ax@GfAEFBYLY@OOk@KQOEOA]@eATi@Dc@JQAQJKBk@KU?}@WkAAKCQBIJIA]Rk@Fg@SQ@o@H{@@OAUIYAUE_B?_BIa@DCBWDs@FKDc@AoAXy@\\k@Lq@BGEMQYIY@MBMHEHE@DDECIOURQHY|@OLMTIJSBKJEP?XEHEZSh@G^ELE@M`@[r@EL@JKZS`@YZUh@a@`@o@b@e@`@g@ZQPOHODKNMBMHa@B]LKCe@JDAEFGPk@^_@EwAV]?WHICi@[IAUBOHKJE?[XK@BIB@JCADEBECMAYLo@l@OJI@QJm@Vu@Nc@RKXIFcAV[Bk@Na@@a@F[LWPSHc@Bk@`@EAEGG{@Ik@MiAC_AMyA_@}BEg@K]A@AWKa@O}@C[G}AQk@KCKDCDCCE@q@j@QPaAl@yApAYBGAUGUOUEIBIRKAEOFWGK@QCEo@]_AuA[]u@e@EAIBGGAKc@e@{@eAo@aBQYKCAKBWBwBOw@]aAaB}@{@]_@YmAe@SAs@Jk@M[OQBECGDGROv@Uz@eA~CGz@WrASn@Kh@a@lAUdAOd@Op@Kr@]v@_@nAMj@?CBFC@@CC@?JMVe@rA_@v@aA`BIPSt@e@fAMd@Yb@q@z@e@v@q@bAKRKFMRUf@It@Bl@Ph@Z\\TNV^DHIVIJQMCESSSa@QQc@WMCM@IFQRS\\WVi@r@k@|@Q\\u@nBSVYp@c@pBk@jBQhA_@xAC@EFCRYEFT?GDCAFMVCHSf@GP?LCDIXOPc@`A]d@[HKHYDq@Rc@RYXMFONORGVKVGt@Q~@MTc@h@QJe@Hy@D[CS@UOCDYM_@IE@CFCXEA?MK?SL_@b@@P[r@If@i@dFIpAGpBKpAk@jFo@hECb@e@lDEt@?PHZRb@?FZXLZPR?TITE@AIEBMCABBBDA?EEBg@dB_@dAG`@k@pBeAhDiC|Gk@lAmD~Gk@bAEVCt@GXGJQ?MFMZ[b@q@f@iAnAa@l@SNOTWTYd@O^YX[d@OJsAdByCjD_@d@Ob@UNE?MUE?Yl@o@r@MRQHa@\\QTYRo@v@YVc@h@QRw@dAm@p@QNQ\\e@n@MZ}@pAWTmAvAc@j@IP@HHP?Ha@`@SJUf@mCxCmBfCoAvAG\\SRGTMDOJQTCL@LRhDHh@@h@pBvXDLDDtBs@HBDNRtCL|@J`BLnDJjGCTGJoBjA{@\\e@\\aA^cAn@K@OK",
+            "resource_state": 3,
+            "summary_polyline": "}unyHldz@U@UW[kAm@mAUK{CjBcClBu@z@Yd@R~@Bn@\\hBd@nDBz@V`CERg@d@oAb@MT?XDHN`C@jBLvAA|A^nEDtACr@PtA\\|DDxBF^HfBTjAcAl@W~AUl@Ux@Ib@Hn@SbA?lANnB?t@b@xGTdAbAdBATKFy@KeBJY\\{@~AMb@[j@WdASb@s@v@KRo@n@U^[RY`@qAjAgBn@e@Fi@E{@Vc@|@aAh@_@`@GWAi@AIE?IbAKXg@`@CE_Ax@MnABYLY@OOk@KQ_@GcEf@]NaAK}@WwAEQBq@\\k@Fg@S}BLuAS_B?_BI}B\\c@AuDdAq@BUWYIg@DYTDDOSg@\\Y|@]b@IJ_@NEP?X_@nAG^u@dBCXKZS`@o@dAa@`@oCrB_@NKN[LkALe@JDAMXk@^_@EwAVu@Hs@_@_@@a@T[XK@BINAGHSEYL_Ax@iAd@yAb@KXIFkCj@cAHgAh@c@Bk@`@KI_@qDQyCe@eDK]A@AW[_BKyBQk@[FIAcA|@aAl@yApAa@@aA]IBIRKAEOFWGK@QCEo@]{AsBu@e@WEAK_BkBo@aBQYKCD{COw@]aA}C{A_@YmAe@gAHgA]_@Dm@fCeA~CGz@WrAaAfDe@jB[dB]v@_@nAMf@BFE??Js@jBaBxC]fAe@fAMd@kA~AcBnCYZUf@It@Bl@Ph@p@l@V^DHIVIJQMWYe@s@q@[WHgB|B}@zAu@nBSVYp@c@pBk@jBQhA_@xAIHCRYEFT?GDCAFe@hAGP?LM^s@rA]d@sBl@{AdAORSn@Gt@Q~@MTc@h@w@Ty@Do@AUOCDy@WIHCXEA?MK?SL_@b@@P[r@If@i@dF]tGk@jFo@hECb@e@lDEt@?PHZRb@?FZXLZPR?TITE@UI@FDAEAgAjDs@rCeAhDiC|GeGpLEVCt@GXGJ_@FMZ[b@q@f@iAnAa@l@{@z@i@dAyCpDyCjD_@d@Ob@[NMUE?Yl@}@fAs@f@uBxBmBbC_A`AQ\\e@n@MZ}@pAWTqBbCIPJZ?Hu@l@Uf@mCxC}D~EG\\SRGT]PQTAZRhDHh@rB`ZJRtBs@HBDNRtCX~CLnDJjGCTGJoBjA{@\\gB|@cAn@K@OK"
+        },
+        "max_heartrate": 160.0,
+        "max_speed": 6.4,
+        "moving_time": 4616,
+        "name": "Evening Ride",
+        "photo_count": 0,
+        "photos": {
+            "count": 1,
+            "primary": {
+                "id": null,
+                "source": 1,
+                "unique_id": "fbab160c-6f17-4988-bc07-7572baf15950",
+                "urls": {
+                    "100": "https://dgtzuqphqg23d.cloudfront.net/3uwHAnbc-_jMy4vMG6R48TXDQetBfu-_QBixOpiS_qs-128x86.jpg",
+                    "600": "https://dgtzuqphqg23d.cloudfront.net/3uwHAnbc-_jMy4vMG6R48TXDQetBfu-_QBixOpiS_qs-768x520.jpg"
+                }
+            },
+            "use_primary_photo": true
+        },
+        "pr_count": 0,
+        "private": false,
+        "resource_state": 3,
+        "segment_efforts": [
+            {
+                "achievements": [],
+                "activity": {
+                    "id": 2399806368,
+                    "resource_state": 1
+                },
+                "athlete": {
+                    "id": 2706556,
+                    "resource_state": 1
+                },
+                "average_heartrate": 90.4,
+                "average_watts": 18.1,
+                "device_watts": false,
+                "distance": 352.3,
+                "elapsed_time": 110,
+                "end_index": 229,
+                "hidden": false,
+                "id": 60566064455,
+                "kom_rank": null,
+                "max_heartrate": 99.0,
+                "moving_time": 110,
+                "name": "Fred Perry Blast",
+                "pr_rank": null,
+                "resource_state": 2,
+                "segment": {
+                    "activity_type": "Ride",
+                    "average_grade": -0.1,
+                    "city": "London",
+                    "climb_category": 0,
+                    "country": "United Kingdom",
+                    "distance": 358.5,
+                    "elevation_high": 29.0,
+                    "elevation_low": 25.0,
+                    "end_latitude": 51.528334,
+                    "end_latlng": [
+                        51.528334,
+                        -0.311627
+                    ],
+                    "end_longitude": -0.311627,
+                    "hazardous": false,
+                    "id": 18077103,
+                    "maximum_grade": 3.5,
+                    "name": "Fred Perry Blast",
+                    "private": false,
+                    "resource_state": 2,
+                    "starred": false,
+                    "start_latitude": 51.528695,
+                    "start_latlng": [
+                        51.528695,
+                        -0.306927
+                    ],
+                    "start_longitude": -0.306927,
+                    "state": "England"
+                },
+                "start_date": "2019-05-26T17:06:00Z",
+                "start_date_local": "2019-05-26T18:06:00Z",
+                "start_index": 148
+            },
+            {
+                "achievements": [],
+                "activity": {
+                    "id": 2399806368,
+                    "resource_state": 1
+                },
+                "athlete": {
+                    "id": 2706556,
+                    "resource_state": 1
+                },
+                "average_heartrate": 117.8,
+                "average_watts": 55.4,
+                "device_watts": false,
+                "distance": 2211.4,
+                "elapsed_time": 1165,
+                "end_index": 1189,
+                "hidden": false,
+                "id": 60566064540,
+                "kom_rank": null,
+                "max_heartrate": 159.0,
+                "moving_time": 993,
+                "name": "Double trouble - Perivale to Rosewood Ave",
+                "pr_rank": null,
+                "resource_state": 2,
+                "segment": {
+                    "activity_type": "Ride",
+                    "average_grade": 1.5,
+                    "city": "Perivale",
+                    "climb_category": 0,
+                    "country": "United Kingdom",
+                    "distance": 2118.1,
+                    "elevation_high": 107.2,
+                    "elevation_low": 74.8,
+                    "end_latitude": 51.552562,
+                    "end_latlng": [
+                        51.552562,
+                        -0.327437
+                    ],
+                    "end_longitude": -0.327437,
+                    "hazardous": false,
+                    "id": 19710539,
+                    "maximum_grade": 15.5,
+                    "name": "Double trouble - Perivale to Rosewood Ave",
+                    "private": false,
+                    "resource_state": 2,
+                    "starred": false,
+                    "start_latitude": 51.537083,
+                    "start_latlng": [
+                        51.537083,
+                        -0.324292
+                    ],
+                    "start_longitude": -0.324292,
+                    "state": "England"
+                },
+                "start_date": "2019-05-26T17:21:13Z",
+                "start_date_local": "2019-05-26T18:21:13Z",
+                "start_index": 666
+            },
+            {
+                "achievements": [],
+                "activity": {
+                    "id": 2399806368,
+                    "resource_state": 1
+                },
+                "athlete": {
+                    "id": 2706556,
+                    "resource_state": 1
+                },
+                "average_heartrate": 116.4,
+                "average_watts": 47.5,
+                "device_watts": false,
+                "distance": 445.1,
+                "elapsed_time": 140,
+                "end_index": 769,
+                "hidden": false,
+                "id": 60566064481,
+                "kom_rank": null,
+                "max_heartrate": 125.0,
+                "moving_time": 140,
+                "name": "perivale station to bilton road",
+                "pr_rank": null,
+                "resource_state": 2,
+                "segment": {
+                    "activity_type": "Ride",
+                    "average_grade": 1.0,
+                    "city": "Southall",
+                    "climb_category": 0,
+                    "country": "United Kingdom",
+                    "distance": 447.6,
+                    "elevation_high": 26.9,
+                    "elevation_low": 22.6,
+                    "end_latitude": 51.541113,
+                    "end_latlng": [
+                        51.541113,
+                        -0.324676
+                    ],
+                    "end_longitude": -0.324676,
+                    "hazardous": false,
+                    "id": 7446198,
+                    "maximum_grade": 3.0,
+                    "name": "perivale station to bilton road",
+                    "private": false,
+                    "resource_state": 2,
+                    "starred": false,
+                    "start_latitude": 51.537154,
+                    "start_latlng": [
+                        51.537154,
+                        -0.324253
+                    ],
+                    "start_longitude": -0.324253,
+                    "state": "England"
+                },
+                "start_date": "2019-05-26T17:21:15Z",
+                "start_date_local": "2019-05-26T18:21:15Z",
+                "start_index": 668
+            },
+            {
+                "achievements": [],
+                "activity": {
+                    "id": 2399806368,
+                    "resource_state": 1
+                },
+                "athlete": {
+                    "id": 2706556,
+                    "resource_state": 1
+                },
+                "average_heartrate": 114.6,
+                "average_watts": 46.9,
+                "device_watts": false,
+                "distance": 1284.9,
+                "elapsed_time": 767,
+                "end_index": 1042,
+                "hidden": false,
+                "id": 60566064519,
+                "kom_rank": null,
+                "max_heartrate": 158.0,
+                "moving_time": 630,
+                "name": "Horseden hill",
+                "pr_rank": null,
+                "resource_state": 2,
+                "segment": {
+                    "activity_type": "Ride",
+                    "average_grade": 2.0,
+                    "city": "Perivale, Greater London, UK",
+                    "climb_category": 0,
+                    "country": "United Kingdom",
+                    "distance": 1181.6,
+                    "elevation_high": 31.0,
+                    "elevation_low": -1.0,
+                    "end_latitude": 51.549324011430144,
+                    "end_latlng": [
+                        51.549324011430144,
+                        -0.33025218173861504
+                    ],
+                    "end_longitude": -0.33025218173861504,
+                    "hazardous": false,
+                    "id": 1182673,
+                    "maximum_grade": 11.9,
+                    "name": "Horseden hill",
+                    "private": false,
+                    "resource_state": 2,
+                    "starred": false,
+                    "start_latitude": 51.539888670668006,
+                    "start_latlng": [
+                        51.539888670668006,
+                        -0.3242877032607794
+                    ],
+                    "start_longitude": -0.3242877032607794,
+                    "state": "Greater London"
+                },
+                "start_date": "2019-05-26T17:22:57Z",
+                "start_date_local": "2019-05-26T18:22:57Z",
+                "start_index": 737
+            },
+            {
+                "achievements": [],
+                "activity": {
+                    "id": 2399806368,
+                    "resource_state": 1
+                },
+                "athlete": {
+                    "id": 2706556,
+                    "resource_state": 1
+                },
+                "average_heartrate": 127.8,
+                "average_watts": 88.0,
+                "device_watts": false,
+                "distance": 549.1,
+                "elapsed_time": 264,
+                "end_index": 949,
+                "hidden": false,
+                "id": 60566064504,
+                "kom_rank": null,
+                "max_heartrate": 158.0,
+                "moving_time": 239,
+                "name": "horsendon climb only",
+                "pr_rank": null,
+                "resource_state": 2,
+                "segment": {
+                    "activity_type": "Ride",
+                    "average_grade": 4.5,
+                    "city": "Greenford",
+                    "climb_category": 0,
+                    "country": "United Kingdom",
+                    "distance": 530.794,
+                    "elevation_high": 55.5,
+                    "elevation_low": 31.2,
+                    "end_latitude": 51.546549433890306,
+                    "end_latlng": [
+                        51.546549433890306,
+                        -0.3288891166451656
+                    ],
+                    "end_longitude": -0.3288891166451656,
+                    "hazardous": false,
+                    "id": 2471145,
+                    "maximum_grade": 6.3,
+                    "name": "horsendon climb only",
+                    "private": false,
+                    "resource_state": 2,
+                    "starred": false,
+                    "start_latitude": 51.54257687279167,
+                    "start_latlng": [
+                        51.54257687279167,
+                        -0.32573944889039336
+                    ],
+                    "start_longitude": -0.32573944889039336,
+                    "state": "Greater London"
+                },
+                "start_date": "2019-05-26T17:27:07Z",
+                "start_date_local": "2019-05-26T18:27:07Z",
+                "start_index": 823
+            },
+            {
+                "achievements": [],
+                "activity": {
+                    "id": 2399806368,
+                    "resource_state": 1
+                },
+                "athlete": {
+                    "id": 2706556,
+                    "resource_state": 1
+                },
+                "average_heartrate": 131.5,
+                "average_watts": 77.9,
+                "device_watts": false,
+                "distance": 541.3,
+                "elapsed_time": 294,
+                "end_index": 1200,
+                "hidden": false,
+                "id": 60566064553,
+                "kom_rank": null,
+                "max_heartrate": 159.0,
+                "moving_time": 259,
+                "name": "Robin Hood Climb",
+                "pr_rank": null,
+                "resource_state": 2,
+                "segment": {
+                    "activity_type": "Ride",
+                    "average_grade": 3.9,
+                    "city": "Greenford",
+                    "climb_category": 0,
+                    "country": "United Kingdom",
+                    "distance": 527.6,
+                    "elevation_high": 14.8,
+                    "elevation_low": -5.6,
+                    "end_latitude": 51.5529,
+                    "end_latlng": [
+                        51.5529,
+                        -0.327242
+                    ],
+                    "end_longitude": -0.327242,
+                    "hazardous": false,
+                    "id": 4256956,
+                    "maximum_grade": 13.2,
+                    "name": "Robin Hood Climb",
+                    "private": false,
+                    "resource_state": 2,
+                    "starred": false,
+                    "start_latitude": 51.550247,
+                    "start_latlng": [
+                        51.550247,
+                        -0.330569
+                    ],
+                    "start_longitude": -0.330569,
+                    "state": "England"
+                },
+                "start_date": "2019-05-26T17:36:13Z",
+                "start_date_local": "2019-05-26T18:36:13Z",
+                "start_index": 1070
+            },
+            {
+                "achievements": [],
+                "activity": {
+                    "id": 2399806368,
+                    "resource_state": 1
+                },
+                "athlete": {
+                    "id": 2706556,
+                    "resource_state": 1
+                },
+                "average_heartrate": 134.1,
+                "average_watts": 68.4,
+                "device_watts": false,
+                "distance": 1010.3,
+                "elapsed_time": 579,
+                "end_index": 1876,
+                "hidden": false,
+                "id": 60566064624,
+                "kom_rank": null,
+                "max_heartrate": 160.0,
+                "moving_time": 514,
+                "name": "Sudbury Hill (north)",
+                "pr_rank": null,
+                "resource_state": 2,
+                "segment": {
+                    "activity_type": "Ride",
+                    "average_grade": 4.7,
+                    "city": "Wembley",
+                    "climb_category": 0,
+                    "country": "United Kingdom",
+                    "distance": 969.018,
+                    "elevation_high": 115.1,
+                    "elevation_low": 69.7,
+                    "end_latitude": 51.56784533527826,
+                    "end_latlng": [
+                        51.56784533527826,
+                        -0.3395389113578382
+                    ],
+                    "end_longitude": -0.3395389113578382,
+                    "hazardous": false,
+                    "id": 1215800,
+                    "maximum_grade": 10.4,
+                    "name": "Sudbury Hill (north)",
+                    "private": false,
+                    "resource_state": 2,
+                    "starred": false,
+                    "start_latitude": 51.56164985154901,
+                    "start_latlng": [
+                        51.56164985154901,
+                        -0.33229879103631926
+                    ],
+                    "start_longitude": -0.33229879103631926,
+                    "state": "Greater London"
+                },
+                "start_date": "2019-05-26T17:59:51Z",
+                "start_date_local": "2019-05-26T18:59:51Z",
+                "start_index": 1631
+            },
+            {
+                "achievements": [],
+                "activity": {
+                    "id": 2399806368,
+                    "resource_state": 1
+                },
+                "athlete": {
+                    "id": 2706556,
+                    "resource_state": 1
+                },
+                "average_heartrate": 127.6,
+                "average_watts": 69.2,
+                "device_watts": false,
+                "distance": 505.5,
+                "elapsed_time": 287,
+                "end_index": 1769,
+                "hidden": false,
+                "id": 61611953676,
+                "kom_rank": null,
+                "max_heartrate": 136.0,
+                "moving_time": 250,
+                "name": "Turn left halfway",
+                "pr_rank": null,
+                "resource_state": 2,
+                "segment": {
+                    "activity_type": "Ride",
+                    "average_grade": 4.5,
+                    "city": null,
+                    "climb_category": 0,
+                    "country": null,
+                    "distance": 460.1,
+                    "elevation_high": 97.8,
+                    "elevation_low": 77.2,
+                    "end_latitude": 51.564513,
+                    "end_latlng": [
+                        51.564513,
+                        -0.337547
+                    ],
+                    "end_longitude": -0.337547,
+                    "hazardous": false,
+                    "id": 20857947,
+                    "maximum_grade": 13.8,
+                    "name": "Turn left halfway",
+                    "private": false,
+                    "resource_state": 2,
+                    "starred": false,
+                    "start_latitude": 51.562103,
+                    "start_latlng": [
+                        51.562103,
+                        -0.332245
+                    ],
+                    "start_longitude": -0.332245,
+                    "state": null
+                },
+                "start_date": "2019-05-26T18:00:12Z",
+                "start_date_local": "2019-05-26T19:00:12Z",
+                "start_index": 1642
+            },
+            {
+                "achievements": [],
+                "activity": {
+                    "id": 2399806368,
+                    "resource_state": 1
+                },
+                "athlete": {
+                    "id": 2706556,
+                    "resource_state": 1
+                },
+                "average_heartrate": 129.3,
+                "average_watts": 90.0,
+                "device_watts": false,
+                "distance": 297.1,
+                "elapsed_time": 165,
+                "end_index": 1825,
+                "hidden": false,
+                "id": 60566064585,
+                "kom_rank": null,
+                "max_heartrate": 147.0,
+                "moving_time": 165,
+                "name": "Sudbury Hill steep bit",
+                "pr_rank": null,
+                "resource_state": 2,
+                "segment": {
+                    "activity_type": "Ride",
+                    "average_grade": 6.4,
+                    "city": "Harrow",
+                    "climb_category": 0,
+                    "country": "United Kingdom",
+                    "distance": 288.8,
+                    "elevation_high": 114.8,
+                    "elevation_low": 96.4,
+                    "end_latitude": 51.566127,
+                    "end_latlng": [
+                        51.566127,
+                        -0.339308
+                    ],
+                    "end_longitude": -0.339308,
+                    "hazardous": false,
+                    "id": 12189585,
+                    "maximum_grade": 7.9,
+                    "name": "Sudbury Hill steep bit",
+                    "private": false,
+                    "resource_state": 2,
+                    "starred": false,
+                    "start_latitude": 51.564267,
+                    "start_latlng": [
+                        51.564267,
+                        -0.336711
+                    ],
+                    "start_longitude": -0.336711,
+                    "state": null
+                },
+                "start_date": "2019-05-26T18:04:19Z",
+                "start_date_local": "2019-05-26T19:04:19Z",
+                "start_index": 1753
+            },
+            {
+                "achievements": [],
+                "activity": {
+                    "id": 2399806368,
+                    "resource_state": 1
+                },
+                "athlete": {
+                    "id": 2706556,
+                    "resource_state": 1
+                },
+                "average_heartrate": 94.8,
+                "average_watts": 0.0,
+                "device_watts": false,
+                "distance": 495.9,
+                "elapsed_time": 134,
+                "end_index": 1997,
+                "hidden": false,
+                "id": 60566064666,
+                "kom_rank": null,
+                "max_heartrate": 103.0,
+                "moving_time": 134,
+                "name": "Roxeth Hill Decent",
+                "pr_rank": null,
+                "resource_state": 2,
+                "segment": {
+                    "activity_type": "Ride",
+                    "average_grade": -7.3,
+                    "city": "Harrow",
+                    "climb_category": 0,
+                    "country": "United Kingdom",
+                    "distance": 490.5,
+                    "elevation_high": 128.4,
+                    "elevation_low": 92.4,
+                    "end_latitude": 51.569307,
+                    "end_latlng": [
+                        51.569307,
+                        -0.34656
+                    ],
+                    "end_longitude": -0.34656,
+                    "hazardous": false,
+                    "id": 6939174,
+                    "maximum_grade": 0.0,
+                    "name": "Roxeth Hill Decent",
+                    "private": false,
+                    "resource_state": 2,
+                    "starred": false,
+                    "start_latitude": 51.568102,
+                    "start_latlng": [
+                        51.568102,
+                        -0.339796
+                    ],
+                    "start_longitude": -0.339796,
+                    "state": "England"
+                },
+                "start_date": "2019-05-26T18:09:46Z",
+                "start_date_local": "2019-05-26T19:09:46Z",
+                "start_index": 1884
+            },
+            {
+                "achievements": [],
+                "activity": {
+                    "id": 2399806368,
+                    "resource_state": 1
+                },
+                "athlete": {
+                    "id": 2706556,
+                    "resource_state": 1
+                },
+                "average_heartrate": 110.1,
+                "average_watts": 21.6,
+                "device_watts": false,
+                "distance": 1854.3,
+                "elapsed_time": 669,
+                "end_index": 2487,
+                "hidden": false,
+                "id": 60566064707,
+                "kom_rank": null,
+                "max_heartrate": 141.0,
+                "moving_time": 578,
+                "name": "The Ridgeway DH",
+                "pr_rank": null,
+                "resource_state": 2,
+                "segment": {
+                    "activity_type": "Ride",
+                    "average_grade": -1.1,
+                    "city": "Harrow",
+                    "climb_category": 0,
+                    "country": "United Kingdom",
+                    "distance": 1836.3,
+                    "elevation_high": 71.8,
+                    "elevation_low": 49.4,
+                    "end_latitude": 51.58124,
+                    "end_latlng": [
+                        51.58124,
+                        -0.364512
+                    ],
+                    "end_longitude": -0.364512,
+                    "hazardous": false,
+                    "id": 4532464,
+                    "maximum_grade": 2.5,
+                    "name": "The Ridgeway DH",
+                    "private": false,
+                    "resource_state": 2,
+                    "starred": false,
+                    "start_latitude": 51.569143,
+                    "start_latlng": [
+                        51.569143,
+                        -0.347576
+                    ],
+                    "start_longitude": -0.347576,
+                    "state": "England"
+                },
+                "start_date": "2019-05-26T18:14:28Z",
+                "start_date_local": "2019-05-26T19:14:28Z",
+                "start_index": 2032
+            },
+            {
+                "achievements": [],
+                "activity": {
+                    "id": 2399806368,
+                    "resource_state": 1
+                },
+                "athlete": {
+                    "id": 2706556,
+                    "resource_state": 1
+                },
+                "average_heartrate": 117.4,
+                "average_watts": 19.7,
+                "device_watts": false,
+                "distance": 790.5,
+                "elapsed_time": 304,
+                "end_index": 2472,
+                "hidden": false,
+                "id": 60566064693,
+                "kom_rank": null,
+                "max_heartrate": 141.0,
+                "moving_time": 262,
+                "name": "Whitmore/Ridgeway Descent",
+                "pr_rank": null,
+                "resource_state": 2,
+                "segment": {
+                    "activity_type": "Ride",
+                    "average_grade": -1.0,
+                    "city": "Harrow",
+                    "climb_category": 0,
+                    "country": "United Kingdom",
+                    "distance": 765.3,
+                    "elevation_high": 57.8,
+                    "elevation_low": 49.4,
+                    "end_latitude": 51.580799,
+                    "end_latlng": [
+                        51.580799,
+                        -0.364158
+                    ],
+                    "end_longitude": -0.364158,
+                    "hazardous": false,
+                    "id": 5725168,
+                    "maximum_grade": 1.1,
+                    "name": "Whitmore/Ridgeway Descent",
+                    "private": false,
+                    "resource_state": 2,
+                    "starred": false,
+                    "start_latitude": 51.575317,
+                    "start_latlng": [
+                        51.575317,
+                        -0.357635
+                    ],
+                    "start_longitude": -0.357635,
+                    "state": "England"
+                },
+                "start_date": "2019-05-26T18:20:18Z",
+                "start_date_local": "2019-05-26T19:20:18Z",
+                "start_index": 2276
+            }
+        ],
+        "splits_metric": [
+            {
+                "average_heartrate": 92.50470219435736,
+                "average_speed": 3.15,
+                "distance": 1004.2,
+                "elapsed_time": 319,
+                "elevation_difference": -18.5,
+                "moving_time": 319,
+                "pace_zone": 0,
+                "split": 1
+            },
+            {
+                "average_heartrate": 100.94397759103641,
+                "average_speed": 2.81,
+                "distance": 1001.8,
+                "elapsed_time": 382,
+                "elevation_difference": -5.5,
+                "moving_time": 357,
+                "pace_zone": 0,
+                "split": 2
+            },
+            {
+                "average_heartrate": 106.10144927536231,
+                "average_speed": 2.41,
+                "distance": 996.7,
+                "elapsed_time": 448,
+                "elevation_difference": 5.1,
+                "moving_time": 414,
+                "pace_zone": 0,
+                "split": 3
+            },
+            {
+                "average_heartrate": 117.26905829596413,
+                "average_speed": 2.25,
+                "distance": 1002.0,
+                "elapsed_time": 545,
+                "elevation_difference": 31.3,
+                "moving_time": 446,
+                "pace_zone": 0,
+                "split": 4
+            },
+            {
+                "average_heartrate": 118.31557377049181,
+                "average_speed": 2.05,
+                "distance": 998.7,
+                "elapsed_time": 561,
+                "elevation_difference": 1.1,
+                "moving_time": 488,
+                "pace_zone": 0,
+                "split": 5
+            },
+            {
+                "average_heartrate": 120.55658198614319,
+                "average_speed": 2.24,
+                "distance": 999.9,
+                "elapsed_time": 486,
+                "elevation_difference": 6.4,
+                "moving_time": 446,
+                "pace_zone": 0,
+                "split": 6
+            },
+            {
+                "average_heartrate": 126.39855072463769,
+                "average_speed": 2.33,
+                "distance": 996.7,
+                "elapsed_time": 753,
+                "elevation_difference": 16.1,
+                "moving_time": 428,
+                "pace_zone": 0,
+                "split": 7
+            },
+            {
+                "average_heartrate": 131.806,
+                "average_speed": 2.01,
+                "distance": 1002.9,
+                "elapsed_time": 565,
+                "elevation_difference": 23.4,
+                "moving_time": 500,
+                "pace_zone": 0,
+                "split": 8
+            },
+            {
+                "average_heartrate": 97.29319371727749,
+                "average_speed": 2.62,
+                "distance": 999.8,
+                "elapsed_time": 382,
+                "elevation_difference": -44.3,
+                "moving_time": 382,
+                "pace_zone": 0,
+                "split": 9
+            },
+            {
+                "average_heartrate": 114.39820359281437,
+                "average_speed": 3.0,
+                "distance": 1002.4,
+                "elapsed_time": 405,
+                "elevation_difference": -5.7,
+                "moving_time": 334,
+                "pace_zone": 0,
+                "split": 10
+            },
+            {
+                "average_heartrate": 111.96629213483146,
+                "average_speed": 2.7,
+                "distance": 996.6,
+                "elapsed_time": 412,
+                "elevation_difference": -0.9,
+                "moving_time": 369,
+                "pace_zone": 0,
+                "split": 11
+            },
+            {
+                "average_heartrate": 113.23308270676692,
+                "average_speed": 3.33,
+                "distance": 442.8,
+                "elapsed_time": 133,
+                "elevation_difference": 0.8,
+                "moving_time": 133,
+                "pace_zone": 0,
+                "split": 12
+            }
+        ],
+        "splits_standard": [
+            {
+                "average_heartrate": 94.63405088062622,
+                "average_speed": 3.16,
+                "distance": 1614.5,
+                "elapsed_time": 536,
+                "elevation_difference": -20.3,
+                "moving_time": 511,
+                "pace_zone": 0,
+                "split": 1
+            },
+            {
+                "average_heartrate": 106.66158536585365,
+                "average_speed": 2.45,
+                "distance": 1604.4,
+                "elapsed_time": 690,
+                "elevation_difference": 4.2,
+                "moving_time": 656,
+                "pace_zone": 0,
+                "split": 2
+            },
+            {
+                "average_heartrate": 114.90885072655217,
+                "average_speed": 2.13,
+                "distance": 1611.7,
+                "elapsed_time": 894,
+                "elevation_difference": 19.7,
+                "moving_time": 757,
+                "pace_zone": 0,
+                "split": 3
+            },
+            {
+                "average_heartrate": 124.16956521739131,
+                "average_speed": 2.29,
+                "distance": 1607.5,
+                "elapsed_time": 1103,
+                "elevation_difference": 23.6,
+                "moving_time": 703,
+                "pace_zone": 0,
+                "split": 4
+            },
+            {
+                "average_heartrate": 130.0961038961039,
+                "average_speed": 2.06,
+                "distance": 1612.4,
+                "elapsed_time": 849,
+                "elevation_difference": 28.8,
+                "moving_time": 784,
+                "pace_zone": 0,
+                "split": 5
+            },
+            {
+                "average_heartrate": 101.96989966555184,
+                "average_speed": 2.69,
+                "distance": 1608.0,
+                "elapsed_time": 669,
+                "elevation_difference": -43.6,
+                "moving_time": 598,
+                "pace_zone": 0,
+                "split": 6
+            },
+            {
+                "average_heartrate": 114.70036764705883,
+                "average_speed": 2.89,
+                "distance": 1608.0,
+                "elapsed_time": 600,
+                "elevation_difference": -3.2,
+                "moving_time": 557,
+                "pace_zone": 0,
+                "split": 7
+            },
+            {
+                "average_heartrate": 114.0,
+                "average_speed": 3.56,
+                "distance": 178.0,
+                "elapsed_time": 50,
+                "elevation_difference": 0.1,
+                "moving_time": 50,
+                "pace_zone": 0,
+                "split": 8
+            }
+        ],
+        "start_date": "2019-05-26T17:02:36Z",
+        "start_date_local": "2019-05-26T18:02:36Z",
+        "start_latitude": 51.53,
+        "start_latlng": [
+            51.53,
+            -0.3
+        ],
+        "start_longitude": -0.3,
+        "timezone": "(GMT+00:00) Europe/London",
+        "total_elevation_gain": 134.8,
+        "total_photo_count": 1,
+        "trainer": false,
+        "type": "Ride",
+        "upload_id": 2551608391,
+        "utc_offset": 3600.0,
+        "visibility": "everyone",
+        "workout_type": 10
     }
 ]

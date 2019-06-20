@@ -70,7 +70,7 @@ public struct Activity: Codable {
     public let splitsStandard: [Split]?
     //    let laps: [Lap]
     //    let bestEfforts: [String]?
-    //    let photos: URL?
+    let photos: PhotoSummary?
     public let deviceName: String?
     public let embedToken: String?
     //    let similarActivities: Activity?
@@ -133,7 +133,7 @@ public struct Activity: Codable {
         case splitsStandard = "splits_standard"
         //        case laps
         //        case bestEfforts = "best_efforts"
-        //        case photos
+        case photos
         case deviceName = "device_name"
         case embedToken = "embed_token"
         //        case similarActivities = "similar_activities"
